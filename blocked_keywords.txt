@@ -1,0 +1,112 @@
+# FamilyBlocker blocked_keywords.txt - conservative keyword list
+# One item per line.
+# Lines starting with # are ignored.
+# Intentionally avoided as single broad words: love, romance, hot, adult, kiss, nude, sex.
+
+erotic
+erotica
+erotic movie
+erotic movies
+erotic film
+erotic films
+erotic thriller
+erotic thrillers
+erotic drama
+erotic dramas
+erotic romance
+adult romance
+adult movie
+adult movies
+adult film
+adult films
+adult content
+adult web series
+18+ movie
+18+ movies
+18+ film
+18+ films
+18+ web series
+18 plus movie
+18 plus movies
+nc-17 movie
+nc-17 movies
+nc17 movie
+nc17 movies
+steamy movie
+steamy movies
+steamy romance
+steamy thriller
+sex scenes
+sex scene
+full sex scene
+movie sex scenes
+film sex scenes
+nude scenes
+nude scene
+nudity scenes
+nudity scene
+explicit scenes
+explicit scene
+uncensored scenes
+uncensored scene
+unrated cut
+unrated version
+sensual movies
+sensual movie
+bold scenes
+bold scene
+bold web series
+hot web series
+intimate scenes
+intimate scene
+watch 18+ movies
+download 18+ movies
+watch erotic movies
+download erotic movies
+best erotic movies
+erotic movies list
+adult movies list
+sexiest movies
+movies with explicit scenes
+movies with nude scenes
+movies with sex scenes
+ullu web series
+ullu hot web series
+kooku web series
+altbalaji hot web series
+alt balaji hot web series
+mx player hot web series
+أفلام للكبار
+افلام للكبار
+فيلم للكبار
+افلام للكبار فقط
+أفلام للكبار فقط
+فيلم للكبار فقط
+أفلام 18+
+افلام 18+
+فيلم 18+
+أفلام +18
+افلام +18
+فيلم +18
+أفلام جريئة
+افلام جريئة
+فيلم جريء
+فيلم جريئ
+مشاهد جريئة
+مشهد جريء
+مشاهد ساخنة
+مشهد ساخن
+رومانسي ساخن
+أفلام رومانسية ساخنة
+افلام رومانسية ساخنة
+مشاهد للكبار
+مقاطع للكبار
+مشاهد عري
+مشهد عري
+مشاهد غير مناسبة
+افلام غير مناسبة للاطفال
+أفلام غير مناسبة للأطفال
+افلام ممنوعة للكبار
+أفلام ممنوعة للكبار
+افلام للكبار فقط مترجمة
+افلام جريئة مترجمة

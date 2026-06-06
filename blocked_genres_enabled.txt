@@ -1,0 +1,25 @@
+# FamilyBlocker blocked_genres_enabled.txt
+# All restrictive film/video genres enabled by default.
+# Format: QCODE - genre name
+# You can disable any genre either by:
+# 1) adding its QCODE to blocked_genres_disabled.txt, or
+# 2) commenting/removing it from this file.
+#
+# This file is intentionally strict.
+# It does NOT include generic comedy, drama, or romance.
+
+Q185529 - pornographic film
+Q599558 - erotic film
+Q2275499 - sex film
+Q2292320 - sexploitation film
+Q2991560 - sex comedy
+Q2991565 - commedia sexy all'italiana
+Q1194365 - pink film / pinku eiga
+Q4047254 - Pornochanchada
+Q5769572 - Mexican sex comedy
+Q120205248 - Comedia picaresca
+Q16254232 - pornographic parody film
+Q128145358 - gay pornographic film
+Q125719481 - lesbian pornographic film
+Q114051112 - POV pornographic film
+Q48743992 - gay pornographic video

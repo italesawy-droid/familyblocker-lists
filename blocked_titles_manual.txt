@@ -1,0 +1,362 @@
+# FamilyBlocker blocked_titles_manual.txt
+# Manual titles you trust. One title per line.
+# Manual titles always stay in blocked_titles.txt.
+# If a title is here, blocked_titles_allowlist.txt will NOT remove it.
+# Add confirmed titles here.
+
+365 Days
+365 Dni
+365 Days This Day
+365 Days: This Day
+The Next 365 Days
+Fifty Shades of Grey
+Fifty Shades Darker
+Fifty Shades Freed
+50 Shades of Grey
+50 Shades Darker
+50 Shades Freed
+Nymphomaniac
+Nymphomaniac Vol I
+Nymphomaniac Vol. I
+Nymphomaniac Volume I
+Nymphomaniac Vol II
+Nymphomaniac Vol. II
+Nymphomaniac Volume II
+Love 2015
+Love (2015)
+Love Gaspar Noe
+Gaspar Noe Love
+Gaspar Noé Love
+Blue Is the Warmest Colour
+Blue Is the Warmest Color
+La Vie d'Adele
+La Vie d’Adèle
+The Dreamers
+Last Tango in Paris
+9 1/2 Weeks
+9½ Weeks
+Nine 1/2 Weeks
+Wild Orchid
+Wild Orchid II
+Original Sin
+Eyes Wide Shut
+Basic Instinct
+Basic Instinct 2
+The Voyeurs
+Sliver
+Unfaithful
+Wild Things
+Wild Things 2
+Wild Things: Diamonds in the Rough
+Wild Things: Foursome
+The Handmaiden
+Cruel Intentions
+Cruel Intentions 2
+Cruel Intentions 3
+Fatal Attraction
+Body Heat
+Body Double
+Color of Night
+Jade
+Disclosure
+Indecent Proposal
+Body of Evidence
+The Last Seduction
+Poison Ivy
+Poison Ivy II
+Poison Ivy: The New Seduction
+Poison Ivy: The Secret Society
+Secretary 2002
+Secretary (2002)
+Secretary film
+Shame 2011
+Shame (2011)
+Crash 1996
+Crash (1996)
+Bound 1996
+Bound (1996)
+Romance 1999
+Romance (1999)
+Romance X
+Q 2011
+Q (2011)
+Desire 2011
+Desire (2011)
+Showgirls
+Striptease
+The Canyons
+Lie with Me
+Lie With Me 2005
+Y Tu Mama Tambien
+Y Tu Mamá También
+Sex and Lucia
+Lucia y el sexo
+Lucía y el sexo
+Room in Rome
+Kama Sutra A Tale of Love
+Kama Sutra: A Tale of Love
+Kamasutra A Tale of Love
+Kamasutra 3D
+In the Realm of the Senses
+Ai no Corrida
+Delta of Venus
+Henry and June
+Henry & June
+Two Moon Junction
+The Lover 1992
+The Lover (1992)
+L'Amant
+Damage 1992
+Damage (1992)
+Bitter Moon
+The Unbearable Lightness of Being
+Betty Blue
+Belle de Jour
+Jamon Jamon
+Jamón Jamón
+Jamón, Jamón
+The Ages of Lulu
+The Ages of Lulú
+Las edades de Lulu
+Las edades de Lulú
+The Key 1983
+The Key (1983)
+La Chiave
+Paprika 1991
+Paprika (1991)
+All Ladies Do It
+Cosi fan tutte
+Così fan tutte
+Frivolous Lola
+Monella
+Cheeky
+Trasgredire
+Monamour
+Miranda 1985
+Miranda (1985)
+The Voyeur 1994
+The Voyeur (1994)
+L'uomo che guarda
+Senso 45
+Senso '45
+Black Angel 2002
+Black Angel (2002)
+Salon Kitty
+Caligula
+Caligula 1979
+Shortbus
+Ken Park
+The Brown Bunny
+Zandalee
+Intimacy 2001
+Intimacy (2001)
+9 Songs
+Nine Songs
+Anatomy of Hell
+The Center of the World
+The Cook the Thief His Wife and Her Lover
+The Cook, the Thief, His Wife & Her Lover
+The Babysitters
+Chloe 2009
+Chloe (2009)
+Adore 2013
+Adore (2013)
+A Teacher 2013
+A Teacher (2013)
+The Reader 2008
+The Reader (2008)
+Swimming Pool 2003
+Swimming Pool (2003)
+Young and Beautiful
+Young & Beautiful
+Jeune et Jolie
+The Piano Teacher
+La Pianiste
+Malena
+Malèna
+Amar 2017
+Amar (2017)
+Newness
+Duck Butter
+Below Her Mouth
+Benedetta
+Lust Caution
+Lust, Caution
+The Libertine
+Femme Fatale 2002
+Femme Fatale (2002)
+Lolita 1962
+Lolita (1962)
+Lolita 1997
+Lolita (1997)
+The Girl Next Door 2004
+The Girl Next Door (2004)
+Lady Chatterley's Lover
+Lady Chatterleys Lover
+Lady Chatterley's Lover 2022
+Lady Chatterley's Lover 1981
+Emmanuelle
+Emmanuelle 1974
+Emmanuelle 2
+Goodbye Emmanuelle
+Emmanuelle in Bangkok
+Emmanuelle 4
+Emmanuelle 5
+Emmanuelle 6
+Emmanuelle 7
+Emanuelle
+Emanuelle Around the World
+Emanuelle in America
+Black Emanuelle
+Black Emanuelle 2
+The Story of O
+Story of O
+The Story of O 1975
+The Story of O 2002
+After 2019
+After (2019)
+After We Collided
+After We Fell
+After Ever Happy
+After Everything 2023
+After Everything (2023)
+Through My Window
+Through My Window Across the Sea
+Through My Window: Across the Sea
+Through My Window Looking at You
+Through My Window: Looking at You
+Culpa Mia
+Culpa Mía
+My Fault 2023
+My Fault (2023)
+Culpa Tuya
+Your Fault 2024
+Your Fault (2024)
+Culpa Nuestra
+Our Fault
+No Hard Feelings
+No Hard Feelings 2023
+Magic Mike
+Magic Mike XXL
+Magic Mike's Last Dance
+Magic Mikes Last Dance
+Hustlers
+Don Jon
+Boogie Nights
+Sex Tape
+Friends with Benefits
+No Strings Attached
+Good Luck Chuck
+The Ugly Truth
+Knocked Up
+Trainwreck
+The To Do List
+Sex Drive
+EuroTrip
+Road Trip
+American Pie
+American Pie 2
+American Wedding
+American Reunion
+American Pie Presents Band Camp
+American Pie Presents The Naked Mile
+American Pie Presents Beta House
+American Pie Presents The Book of Love
+American Pie Presents Girls' Rules
+American Pie Presents Girls Rules
+Porky's
+Porkys
+Porky's II
+Porky's Revenge
+The 40-Year-Old Virgin
+The 40 Year Old Virgin
+Not Another Teen Movie
+Van Wilder
+National Lampoon's Van Wilder
+Salo or the 120 Days of Sodom
+Salò or the 120 Days of Sodom
+Salo
+Salò
+A Serbian Film
+Baise-moi
+I Spit on Your Grave
+I Spit on Your Grave 2
+I Spit on Your Grave 3
+I Spit on Your Grave: Deja Vu
+Irreversible
+Irréversible
+Antichrist 2009
+Antichrist (2009)
+Hate Story
+Hate Story 2
+Hate Story 3
+Hate Story 4
+Jism
+Jism 2
+Murder 2004
+Murder (2004)
+Murder 2
+Murder 3
+Julie 2004
+Julie (2004)
+Julie 2
+B.A. Pass
+BA Pass
+B A Pass
+Ragini MMS
+Ragini MMS 2
+One Night Stand 2016
+One Night Stand (2016)
+Wajah Tum Ho
+Beiimaan Love
+Love Games 2016
+Love Games (2016)
+Hunterrr
+Grand Masti
+Great Grand Masti
+Mastizaade
+Kyaa Kool Hain Hum
+Kyaa Kool Hain Hum 3
+Kyaa Super Kool Hain Hum
+Masti 2004
+Masti (2004)
+Kya Kool Hai Hum
+Ek Paheli Leela
+Aiyyaa
+The Dirty Picture
+Lust Stories
+Lust Stories 2
+Mastram
+Mastram series
+Gandii Baat
+Gandi Baat
+XXX Uncensored
+XXX: Uncensored
+Charmsukh
+Palang Tod
+Riti Riwaj
+Kavita Bhabhi
+Virgin Bhasskar
+Bekaboo
+Bekaaboo
+Rasbhari
+Seduction and Snacks
+Seduction & Snacks
+L'Enfant Terrible
+L’Enfant Terrible
+Surfacing
+The Boy Next Door
+The Boy Next Door 2015
+Addicted 2014
+Addicted (2014)
+Zebra Lounge
+Sex and Breakfast
+Sex and Breakfast 2007
+Sleeping Beauty 2011
+Sleeping Beauty (2011)
+Malizia
+Malizia 1973
+Malicious 1973
+Malicious (1973)
+Malizia 2000
+Malizia 2mila

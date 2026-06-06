@@ -1,0 +1,7 @@
+# FamilyBlocker blocked_genres_disabled.txt
+# Add QCODEs here to disable a whole genre from automatic blocking.
+# Example:
+# Q2991565
+#
+# Empty by default for maximum restriction.
+

@@ -1,0 +1,30 @@
+# FamilyBlocker blocked_titles_allowlist.txt
+# Exact titles to exclude from automatic titles.
+# Manual titles in blocked_titles_manual.txt still win.
+# One title per line.
+# Use this when one film title is a false-positive but you do not want to disable the entire genre.
+
+Love
+After
+Q
+Crash
+Bound
+Shame
+Secretary
+Romance
+Desire
+Damage
+Adore
+Chloe
+The Key
+The Lover
+Intimacy
+Paprika
+Miranda
+Monamour
+Seduction
+Obsession
+Comedy
+Drama
+Romance film
+Romantic comedy
