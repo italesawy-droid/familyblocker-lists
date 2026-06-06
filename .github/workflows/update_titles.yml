@@ -1,0 +1,38 @@
+name: Update blocked titles
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 2 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update-titles:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Update auto titles and final blocked_titles.txt
+        run: python scripts/update_titles.py
+
+      - name: Commit changes if needed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          if [[ -n "$(git status --porcelain)" ]]; then
+            git add blocked_titles.txt blocked_titles_manual.txt blocked_titles_auto.txt blocked_titles_by_genre.txt blocked_titles_sources.tsv blocked_titles_auto_genres.txt blocked_titles_allowlist.txt blocked_genres_enabled.txt blocked_genres_disabled.txt
+            git commit -m "Update blocked title lists"
+            git push
+          else
+            echo "No changes to commit."
+          fi
