@@ -1,1 +1,47 @@
-# Auto-generated genre list will appear here after GitHub Actions runs.
+# FamilyBlocker blocked_titles_auto_genres.txt
+# Genres used by scripts/update_titles.py.
+# Updated: 2026-06-07 00:12:17 UTC
+# Disabled genres are not included here.
+
+Q185529 - pornographic film
+Q599558 - erotic film
+Q2275499 - sex film
+Q2292320 - sexploitation film
+Q2991560 - sex comedy
+Q2991565 - commedia sexy all'italiana
+Q1194365 - pink film / pinku eiga
+Q4047254 - Pornochanchada
+Q5769572 - Mexican sex comedy
+Q120205248 - Comedia picaresca
+Q16254232 - pornographic parody film
+Q128145358 - gay pornographic film
+Q125719481 - lesbian pornographic film
+Q114051112 - POV pornographic film
+Q48743992 - gay pornographic video
+Q5969904 - Q5969904
+Q85877822 - Q85877822
+Q3461143 - BDSM-themed film
+Q84041 - Bavarian porn
+Q3684597 - Commedia erotica familiare
+Q124391280 - Danish sex documentary film
+Q128151033 - LGBT erotic film
+Q123851043 - LGBT pornographic film
+Q1412580 - Pinky Violence
+Q20965835 - adult video in Japan
+Q4373044 - cartoon pornography
+Q931552 - celebrity sex tape
+Q10505214 - comedy porn film
+Q109733294 - erotic thriller film
+Q138020407 - fetish film
+Q3318957 - furry porn
+Q128145862 - gay erotic film
+Q81746082 - nudie-cutie
+Q125454281 - porn misery
+Q62015757 - pornographic film scene
+Q128155184 - queer erotic film
+Q128150456 - queer porn film
+Q138807680 - sex comedy anime and manga
+Q109653402 - sex horror film
+Q2145099 - sex report film
+Q97016664 - sex tape
+Q20649407 - stag film
