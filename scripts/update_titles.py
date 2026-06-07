@@ -44,7 +44,6 @@ DEFAULT_GENRES: List[Tuple[str, str]] = [
     ("Q48743992", "gay pornographic video"),
 ]
 
-# Dynamic discovery expands coverage, but still avoids generic comedy/drama/romance.
 SEXUAL_GENRE_LABEL_REGEX = (
     r"(^|[^a-z])("
     r"erotic|"
@@ -224,11 +223,7 @@ def read_enabled_genres() -> List[Tuple[str, str]]:
             seen.add(qid)
             output.append((qid, label))
 
-    # If the file was accidentally emptied, fall back to default strict list.
-    if not output:
-        output = DEFAULT_GENRES[:]
-
-    return output
+    return output or DEFAULT_GENRES[:]
 
 
 def read_disabled_genres() -> Set[str]:
@@ -240,20 +235,31 @@ def read_disabled_genres() -> Set[str]:
     return disabled
 
 
-def sparql_request(query: str, timeout: int = 60) -> Dict:
+def sparql_request(query: str, timeout: int = 120, attempts: int = 3) -> Dict:
     endpoint = "https://query.wikidata.org/sparql"
     url = endpoint + "?" + urllib.parse.urlencode({"query": query, "format": "json"})
 
-    request = urllib.request.Request(
-        url,
-        headers={
-            "Accept": "application/sparql-results+json",
-            "User-Agent": "FamilyBlocker-GitHubAction/3.0 (https://github.com/italesawy-droid/familyblocker-lists)",
-        },
-    )
+    last_error: Exception | None = None
 
-    with urllib.request.urlopen(request, timeout=timeout) as response:
-        return json.loads(response.read().decode("utf-8"))
+    for attempt in range(1, attempts + 1):
+        try:
+            request = urllib.request.Request(
+                url,
+                headers={
+                    "Accept": "application/sparql-results+json",
+                    "User-Agent": "FamilyBlocker-GitHubAction/3.1 (https://github.com/italesawy-droid/familyblocker-lists)",
+                },
+            )
+
+            with urllib.request.urlopen(request, timeout=timeout) as response:
+                return json.loads(response.read().decode("utf-8"))
+        except Exception as exc:
+            last_error = exc
+            print(f"WARNING: SPARQL request failed attempt {attempt}/{attempts}: {exc}", file=sys.stderr)
+            if attempt < attempts:
+                time.sleep(5 * attempt)
+
+    raise RuntimeError(f"SPARQL request failed after {attempts} attempts: {last_error}")
 
 
 def discover_additional_genres(seed_genres: List[Tuple[str, str]]) -> List[Tuple[str, str]]:
@@ -279,7 +285,12 @@ ORDER BY ?genreLabel
 LIMIT 1000
 """
 
-    payload = sparql_request(query)
+    try:
+        payload = sparql_request(query, timeout=120, attempts=2)
+    except Exception as exc:
+        print(f"WARNING: Could not discover extra genres. Continuing with enabled genres only. Details: {exc}", file=sys.stderr)
+        return []
+
     output: List[Tuple[str, str]] = []
     seen: Set[str] = set()
 
@@ -316,45 +327,35 @@ def merge_genres(enabled: List[Tuple[str, str]], discovered: List[Tuple[str, str
     return output
 
 
-def chunked(values: List[Tuple[str, str]], size: int) -> Iterable[List[Tuple[str, str]]]:
-    for idx in range(0, len(values), size):
-        yield values[idx: idx + size]
-
-
-def fetch_titles_for_genre_chunk(genres: List[Tuple[str, str]]) -> List[Dict[str, str]]:
-    values = " ".join(f"wd:{qid}" for qid, _ in genres)
-
+def fetch_titles_for_one_genre(qid: str, label: str) -> List[Dict[str, str]]:
     query = f"""
-SELECT DISTINCT ?film ?filmLabel ?date ?genre ?genreLabel WHERE {{
-  VALUES ?genre {{ {values} }}
+SELECT DISTINCT ?film ?filmLabel ?date WHERE {{
+  VALUES ?genre {{ wd:{qid} }}
   ?film wdt:P31/wdt:P279* wd:Q11424.
   ?film wdt:P136 ?genre.
   OPTIONAL {{ ?film wdt:P577 ?date. }}
   SERVICE wikibase:label {{ bd:serviceParam wikibase:language "en". }}
 }}
-ORDER BY ?genreLabel ?filmLabel
-LIMIT 10000
+ORDER BY ?filmLabel
+LIMIT 5000
 """
 
-    payload = sparql_request(query)
+    payload = sparql_request(query, timeout=120, attempts=3)
     rows: List[Dict[str, str]] = []
 
     for item in payload.get("results", {}).get("bindings", []):
-        label = item.get("filmLabel", {}).get("value", "")
+        film_label = item.get("filmLabel", {}).get("value", "")
         date = item.get("date", {}).get("value", "")
-        genre_uri = item.get("genre", {}).get("value", "")
-        genre_label = item.get("genreLabel", {}).get("value", "")
-        genre_qid = genre_uri.rsplit("/", 1)[-1].strip()
         year = ""
         match = re.match(r"^(\d{4})", date)
         if match:
             year = match.group(1)
         rows.append(
             {
-                "title": label,
+                "title": film_label,
                 "year": year,
-                "genre_qid": genre_qid,
-                "genre_label": genre_label,
+                "genre_qid": qid,
+                "genre_label": label,
             }
         )
 
@@ -392,17 +393,24 @@ def candidate_title(raw_title: str, year: str) -> str | None:
     return title
 
 
-def build_auto_data(genres: List[Tuple[str, str]]) -> Tuple[List[str], Dict[str, List[str]], Dict[str, Set[Tuple[str, str]]]]:
+def build_auto_data(genres: List[Tuple[str, str]]) -> Tuple[List[str], Dict[str, List[str]], Dict[str, Set[Tuple[str, str]]], List[str]]:
     rows: List[Dict[str, str]] = []
-    for group in chunked(genres, 40):
-        rows.extend(fetch_titles_for_genre_chunk(group))
-        time.sleep(0.25)
+    warnings: List[str] = []
+
+    for qid, label in genres:
+        try:
+            genre_rows = fetch_titles_for_one_genre(qid, label)
+            rows.extend(genre_rows)
+            print(f"Fetched {len(genre_rows)} title row(s) for {qid} - {label}")
+        except Exception as exc:
+            message = f"{qid} - {label}: {exc}"
+            warnings.append(message)
+            print(f"WARNING: Skipping genre due to fetch failure: {message}", file=sys.stderr)
+        time.sleep(0.5)
 
     titles_by_genre: Dict[str, List[str]] = defaultdict(list)
     source_map: Dict[str, Set[Tuple[str, str]]] = defaultdict(set)
     all_titles: List[str] = []
-
-    genre_labels = {qid: label for qid, label in genres}
 
     for row in rows:
         title = candidate_title(row.get("title", ""), row.get("year", ""))
@@ -410,7 +418,7 @@ def build_auto_data(genres: List[Tuple[str, str]]) -> Tuple[List[str], Dict[str,
             continue
 
         qid = row.get("genre_qid", "")
-        label = clean_value(row.get("genre_label", "")) or genre_labels.get(qid, qid)
+        label = clean_value(row.get("genre_label", "")) or qid
 
         titles_by_genre[qid].append(title)
         source_map[title].add((qid, label))
@@ -421,7 +429,7 @@ def build_auto_data(genres: List[Tuple[str, str]]) -> Tuple[List[str], Dict[str,
     for qid in list(titles_by_genre.keys()):
         titles_by_genre[qid] = sorted(set(titles_by_genre[qid]), key=lambda x: normalize_key(x))
 
-    return all_titles, titles_by_genre, source_map
+    return all_titles, titles_by_genre, source_map, warnings
 
 
 def merge_final(manual: List[str], auto: List[str], allowlist: List[str]) -> List[str]:
@@ -484,19 +492,17 @@ def main() -> int:
 
     disabled = read_disabled_genres()
     enabled = read_enabled_genres()
+    discovered = discover_additional_genres(enabled)
+    genres = merge_genres(enabled, discovered, disabled)
 
-    try:
-        discovered = discover_additional_genres(enabled)
-        genres = merge_genres(enabled, discovered, disabled)
-        auto_titles, titles_by_genre, source_map = build_auto_data(genres)
-    except Exception as exc:
-        print(f"ERROR: Could not update automatic titles: {exc}", file=sys.stderr)
-        print("Keeping existing blocked_titles.txt unchanged.", file=sys.stderr)
-        return 1
+    auto_titles, titles_by_genre, source_map, warnings = build_auto_data(genres)
 
     manual = read_lines(MANUAL_FILE)
     allowlist = read_lines(ALLOWLIST_FILE)
 
+    # Safety rule:
+    # If every external query failed and there are no automatic titles, keep workflow successful
+    # but preserve manual/final generation. This avoids breaking the action because Wikidata timed out.
     now = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S UTC")
 
     write_lines(
@@ -545,14 +551,20 @@ def main() -> int:
 
     print(f"Enabled base genres: {len(enabled)}")
     print(f"Disabled genres: {len(disabled)}")
-    print(f"Total active genres after discovery: {len(genres)}")
+    print(f"Discovered extra genres: {len(discovered)}")
+    print(f"Total active genres: {len(genres)}")
     print(f"Manual titles: {len(manual)}")
     print(f"Auto titles: {len(auto_titles)}")
     print(f"Allowlist titles: {len(allowlist)}")
     print(f"Final titles: {len(final)}")
-    print(f"Grouped review file: {BY_GENRE_FILE.name}")
-    print(f"Sources TSV file: {SOURCES_FILE.name}")
+    print(f"Genre fetch warnings: {len(warnings)}")
 
+    if warnings:
+        print("Warnings:")
+        for warning in warnings:
+            print(f"- {warning}")
+
+    # Exit 0 even with partial external fetch failures.
     return 0
 
 
