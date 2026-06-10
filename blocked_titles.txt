@@ -1,6 +1,6 @@
 # FamilyBlocker blocked_titles.txt
 # Final flat list used by the browser extension.
-# Updated: 2026-06-09 12:28:20 UTC
+# Updated: 2026-06-10 14:32:30 UTC
 # Built from:
 # - blocked_titles_manual.txt
 # - blocked_titles_auto.txt
@@ -1404,6 +1404,7 @@ Emanuelle and the White Slave Trade
 Emanuelle e Lolita
 Emanuelle Escapes from Hell
 Emanuelle in Bangkok
+Emanuelle in the Country
 Emanuelle: Queen of Sados
 Embrace of the Vampire
 Embrace the Darkness
@@ -3551,7 +3552,7 @@ Sex Demon Human 1 - Estrous Cycle
 Sex, Demons and Death
 Sex Demons: Ghosts Obsessed With Sex
 Sex Detective Hatenashi
-Sex Detective Nana: The Phantom Of The Sauna
+Sex Detective Nana: The Phantom of the Sauna
 Sex Doll: Her Temperature
 Sex Door Neighbors
 Sex Dreams Report
@@ -4959,7 +4960,7 @@ Women's War: Doggie's Uprising
 Women: Sexual Satisfaction
 Women Who Have Been Tamed
 Women Without Innocence
-Women ... Women
+Women, Women
 Wonder Woman XXX: An Axel Braun Parody
 Workplace Picnic Goal
 World Cup
@@ -5035,9 +5036,9 @@ Young Older Sister-in-Law
 Young Older Sister-in-Law 2
 Young Older Sister-in-Law 3
 Young Sister and the Secret Deal
-Young Sister In Law
-Young Sister-in-law 2
-Young Sister-in-Law 3
+Young Sister-in-law
+Young Sister-In-Law 2
+Young Sister-in-law 3
 Young Sister-In-Law 4
 Young Sister-in-Law 5
 Young Sister-in-law: Unbearable Taste - Director's Cut
