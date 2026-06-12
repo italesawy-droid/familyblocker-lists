@@ -1,6 +1,6 @@
 # FamilyBlocker blocked_titles_auto.txt
 # Auto-generated flat automatic titles.
-# Updated: 2026-06-11 17:03:25 UTC
+# Updated: 2026-06-12 14:15:37 UTC
 # Do not edit manually. Use blocked_titles_manual.txt, blocked_titles_allowlist.txt, or blocked_genres_disabled.txt.
 
 1-900 1994
@@ -692,6 +692,7 @@ Butterflies
 Buttman's European Vacation
 Buttslammers 16
 Buttslammers 21
+Buttslammers 4: Down & Dirty
 Byleth: The Demon of Incest
 C.O.D.
 Cabaret Desire
@@ -987,6 +988,13 @@ Delicious You Passed
 Delirious Women
 Delizia
 Delta of Venus
+Depraved Fantasies
+Depraved Fantasies 2
+Depraved Fantasies 3
+Depraved Fantasies 4: The Undead
+Depraved Fantasies 5
+Depraved Fantasies 6
+Depraved Fantasies 7
 Der Boss
 Der lüsterne Türke
 Der Maa vaere in Sengekant
@@ -4765,7 +4773,7 @@ Women's War: Doggie's Uprising
 Women: Sexual Satisfaction
 Women Who Have Been Tamed
 Women Without Innocence
-Women ... Women
+Women, Women
 Wonder Woman XXX: An Axel Braun Parody
 Workplace Picnic Goal
 World Cup
@@ -4842,7 +4850,7 @@ Young Older Sister-in-Law
 Young Older Sister-in-Law 2
 Young Older Sister-in-Law 3
 Young Sister and the Secret Deal
-Young Sister In Law
+Young Sister-in-law
 Young Sister-In-Law 2
 Young Sister-in-Law 3
 Young Sister In Law 4
