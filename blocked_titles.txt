@@ -1,6 +1,6 @@
 # FamilyBlocker blocked_titles.txt
 # Final flat list used by the browser extension.
-# Updated: 2026-06-19 14:23:02 UTC
+# Updated: 2026-06-20 11:04:26 UTC
 # Built from:
 # - blocked_titles_manual.txt
 # - blocked_titles_auto.txt
@@ -485,6 +485,7 @@ Adult Shop Albasaeng - Those Who Experience It In Person
 Adult Streamer
 Adult Toy: Can I Do It For You?
 Adulterous Wife's Dirty Afternoon
+Adultery
 Adultery Alumni Association
 Adultery Alumni Association 2
 Adultery Alumni Association 3
@@ -630,6 +631,7 @@ Apocalypse X
 Appare heels: Bikku-biku jorei bô
 ARA-186 Age: Occupation unknown (secret) Almost all mysterious beauty, Anna-chan visits! One thing you can see is that pheromones are appearing abnormally! The reason for applying is "I'm excited when people see me
 Arabesque
+Arabian Nights
 Arang 2020
 Arcade on Route 9
 Archer's Last Day
@@ -3577,7 +3579,7 @@ Sex Demon Human 1 - Estrous Cycle
 Sex, Demons and Death
 Sex Demons: Ghosts Obsessed With Sex
 Sex Detective Hatenashi
-Sex Detective Nana: The Phantom Of The Sauna
+Sex Detective Nana: The Phantom of the Sauna
 Sex Doll: Her Temperature
 Sex Door Neighbors
 Sex Dreams Report
@@ -4178,6 +4180,7 @@ The Class Reunion
 The Cloud Door
 The Cocktail Hostesses
 The Collector
+The Comfort of Strangers
 The Concubine
 The Condemned
 The Countess Died of Laughter
@@ -4990,7 +4993,7 @@ Women's War: Doggie's Uprising
 Women: Sexual Satisfaction
 Women Who Have Been Tamed
 Women Without Innocence
-Women, Women
+Women ... Women
 Wonder Woman XXX: An Axel Braun Parody
 Workplace Picnic Goal
 World Cup
@@ -5066,10 +5069,10 @@ Young Older Sister-in-Law
 Young Older Sister-in-Law 2
 Young Older Sister-in-Law 3
 Young Sister and the Secret Deal
-Young Sister-in-law
-Young Sister-in-law 2
+Young Sister In Law
+Young Sister-In-Law 2
 Young Sister-in-Law 3
-Young Sister In Law 4
+Young Sister-In-Law 4
 Young Sister-in-Law 5
 Young Sister-in-law: Unbearable Taste - Director's Cut
 Young Specialist
