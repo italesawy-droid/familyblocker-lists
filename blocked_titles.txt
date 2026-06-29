@@ -1,6 +1,6 @@
 # FamilyBlocker blocked_titles.txt
 # Final flat list used by the browser extension.
-# Updated: 2026-06-28 10:40:34 UTC
+# Updated: 2026-06-29 16:30:25 UTC
 # Built from:
 # - blocked_titles_manual.txt
 # - blocked_titles_auto.txt
@@ -987,8 +987,10 @@ Busty Coeds vs. Lusty Cheerleaders
 Busty Girlfriend
 Butt Fuck Me 4
 Butterflies
+Buttman in the Crack
 Buttman's British Moderately Big Tit Adventure
 Buttman's European Vacation
+Buttman's Toy Stories
 Buttslammers 16
 Buttslammers 21
 Buttslammers 4: Down & Dirty
@@ -1417,6 +1419,7 @@ DXK 2011
 E.T. XXX – A Dreamzone Parody
 Easy Virtue
 Ecchi o nerae!: Inuneko.
+Echoes
 Ecstasy
 Ecstasy of the Angels
 Educating Mandy
@@ -2260,6 +2263,7 @@ Just Another Pretty Face
 Just Like a Cat
 Just Once Before l Die
 Just Sex, Nothing Personal
+Justice
 Justice League XXX: An Axel Braun Parody
 Justine and Juliette
 Justine de Sade
@@ -4190,6 +4194,7 @@ Tezaab – The Acid of Love
 Thai Female Secretary
 Thar She Blows!
 That Boy
+That Dick Taste's Like Money
 That Malicious Age
 That Thing Is A Virus
 The 11,000 Sexes
@@ -4239,7 +4244,6 @@ The Black Hand
 The Blair Witch Project: A Hardcore Parody
 The Blood Oranges
 The Blood Rose
-The Blood Spattered Bride
 The Blueprint
 The Blues of Pop Street
 The Bluff
@@ -4339,6 +4343,7 @@ The French Cousins
 The French Peep Show
 The French Woman
 The Fruit is Ripe
+The Fugitive
 The Garden of Torture
 The Gas Station
 The Geek
@@ -5155,7 +5160,7 @@ Young Older Sister-in-Law 2
 Young Older Sister-in-Law 3
 Young Sister and the Secret Deal
 Young Sister-in-law
-Young Sister-in-law 2
+Young Sister-In-Law 2
 Young Sister-in-Law 3
 Young Sister In Law 4
 Young Sister-in-Law 5
