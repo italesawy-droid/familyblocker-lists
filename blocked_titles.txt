@@ -1,6 +1,6 @@
 # FamilyBlocker blocked_titles.txt
 # Final flat list used by the browser extension.
-# Updated: 2026-06-29 16:30:25 UTC
+# Updated: 2026-06-30 11:58:52 UTC
 # Built from:
 # - blocked_titles_manual.txt
 # - blocked_titles_auto.txt
@@ -329,6 +329,7 @@ Malizia 2mila
 2 - I, a Woman, Part II
 2-on-1 Business Trip Massage 2
 2-on-1 Special Classes
+2000 On Fire
 2020 Final Sex
 2040 2009
 2069: A Sex Odyssey
@@ -1880,6 +1881,7 @@ Guilty as Sin
 Guilty of Romance
 Guns 1990
 Guntur Talkies
+Gypsy Emma
 Gypsy Seduction
 Hail Mary
 Hairy Twatter: A DreamZone Parody
@@ -3659,7 +3661,7 @@ Sex Demon Human 1 - Estrous Cycle
 Sex, Demons and Death
 Sex Demons: Ghosts Obsessed With Sex
 Sex Detective Hatenashi
-Sex Detective Nana: The Phantom of the Sauna
+Sex Detective Nana: The Phantom Of The Sauna
 Sex Doll: Her Temperature
 Sex Door Neighbors
 Sex Dreams Report
@@ -4577,6 +4579,7 @@ The Smashing Bird I Used to Know
 The Smile
 The Snow Bunnies
 The Soldier with Great Maneuvers
+The Solid Man
 The Spiral Woman
 The Stewardesses
 The Sticky Taste of a Peach-Skinned Proprietess
@@ -5161,8 +5164,8 @@ Young Older Sister-in-Law 3
 Young Sister and the Secret Deal
 Young Sister-in-law
 Young Sister-In-Law 2
-Young Sister-in-Law 3
-Young Sister In Law 4
+Young Sister-in-law 3
+Young Sister-In-Law 4
 Young Sister-in-Law 5
 Young Sister-in-law: Unbearable Taste - Director's Cut
 Young Specialist
