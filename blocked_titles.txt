@@ -1,6 +1,6 @@
 # FamilyBlocker blocked_titles.txt
 # Final flat list used by the browser extension.
-# Updated: 2026-07-05 10:32:44 UTC
+# Updated: 2026-07-06 14:43:57 UTC
 # Built from:
 # - blocked_titles_manual.txt
 # - blocked_titles_auto.txt
@@ -586,6 +586,7 @@ An Affair: Young Stepmother
 An American Buttman In London
 An American Werewolf in London XXX Porn Parody
 An Erotic Werewolf in London
+An Inconvenient Mistress
 An Open Invitation: A Real Swingers Party in San Francisco
 An Oversized Woman
 Anak Ka ng Ina Mo
@@ -3377,6 +3378,7 @@ Put Your Devil Into My Hell
 Pyon Kangnyo
 Qualcosa in più
 Queen of Elephants
+Queen of Hearts
 Quella provincia maliziosa
 Quiet Days in Clichy
 Quiver Queen: Chanel Camryn 90's Theme Showcase
@@ -3668,7 +3670,7 @@ Sex Demon Human 1 - Estrous Cycle
 Sex, Demons and Death
 Sex Demons: Ghosts Obsessed With Sex
 Sex Detective Hatenashi
-Sex Detective Nana: The Phantom Of The Sauna
+Sex Detective Nana: The Phantom of the Sauna
 Sex Doll: Her Temperature
 Sex Door Neighbors
 Sex Dreams Report
@@ -3735,6 +3737,7 @@ Sex World
 Sexbots: Programmed For Pleasure
 Sexcapades
 Sexless
+Sexpionage: The Drake Chronicles
 Sexual Compatibility
 Sexual Healing
 Sexual Partnership
@@ -4924,6 +4927,7 @@ Vanishing Twin
 Varietease
 Varsity Playthings
 Vegetarian
+Veil 1990
 Venetian Caprice
 Venus in Fur
 Venus in Furs
@@ -5091,7 +5095,7 @@ Women's War: Doggie's Uprising
 Women: Sexual Satisfaction
 Women Who Have Been Tamed
 Women Without Innocence
-Women ... Women
+Women, Women
 Wonder Woman XXX: An Axel Braun Parody
 Workplace Picnic Goal
 World Cup
@@ -5171,7 +5175,7 @@ Young Older Sister-in-Law 3
 Young Sister and the Secret Deal
 Young Sister In Law
 Young Sister-in-law 2
-Young Sister-in-Law 3
+Young Sister-in-law 3
 Young Sister-In-Law 4
 Young Sister-in-Law 5
 Young Sister-in-law: Unbearable Taste - Director's Cut
