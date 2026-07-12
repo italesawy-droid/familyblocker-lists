@@ -1,6 +1,6 @@
 # FamilyBlocker blocked_titles_auto.txt
 # Auto-generated flat automatic titles.
-# Updated: 2026-07-11 05:23:32 UTC
+# Updated: 2026-07-12 05:40:59 UTC
 # Do not edit manually. Use blocked_titles_manual.txt, blocked_titles_allowlist.txt, or blocked_genres_disabled.txt.
 
 1-900 1994
@@ -4984,9 +4984,9 @@ Young Older Sister-in-Law 2
 Young Older Sister-in-Law 3
 Young Sister and the Secret Deal
 Young Sister In Law
-Young Sister-in-law 2
-Young Sister-in-Law 3
-Young Sister-In-Law 4
+Young Sister-In-Law 2
+Young Sister-in-law 3
+Young Sister In Law 4
 Young Sister-in-Law 5
 Young Sister-in-law: Unbearable Taste - Director's Cut
 Young Specialist
