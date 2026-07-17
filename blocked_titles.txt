@@ -1,6 +1,6 @@
 # FamilyBlocker blocked_titles.txt
 # Final flat list used by the browser extension.
-# Updated: 2026-07-16 05:21:27 UTC
+# Updated: 2026-07-17 05:24:58 UTC
 # Built from:
 # - blocked_titles_manual.txt
 # - blocked_titles_auto.txt
@@ -372,6 +372,7 @@ A Delicious Flight
 A Delicious Husband's Friend
 A Dirty Western
 A Discreet Affair
+A Documentary on the Making of 'Gore Vidal's Caligula
 A Drama Under A Skirt
 A Father in Law and Two Daunghters in Law
 A Female Employee's Taste
@@ -1007,6 +1008,7 @@ Caged Heat
 Caged Women
 Calendar Girl
 California Kings
+Caligola: Follia del potere
 Caligola - La storia mai raccontata
 Caligula and Messalina
 Caligula's Hot Nights
@@ -5183,7 +5185,7 @@ Young Older Sister-in-Law 3
 Young Sister and the Secret Deal
 Young Sister In Law
 Young Sister-in-law 2
-Young Sister-in-Law 3
+Young Sister-in-law 3
 Young Sister-In-Law 4
 Young Sister-in-Law 5
 Young Sister-in-law: Unbearable Taste - Director's Cut

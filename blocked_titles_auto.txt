@@ -1,6 +1,6 @@
 # FamilyBlocker blocked_titles_auto.txt
 # Auto-generated flat automatic titles.
-# Updated: 2026-07-16 05:21:27 UTC
+# Updated: 2026-07-17 05:24:58 UTC
 # Do not edit manually. Use blocked_titles_manual.txt, blocked_titles_allowlist.txt, or blocked_genres_disabled.txt.
 
 1-900 1994
@@ -83,6 +83,7 @@ A Delicious Flight
 A Delicious Husband's Friend
 A Dirty Western
 A Discreet Affair
+A Documentary on the Making of 'Gore Vidal's Caligula
 A Drama Under A Skirt
 A Father in Law and Two Daunghters in Law
 A Female Employee's Taste
@@ -738,6 +739,7 @@ Caged Heat
 Caged Women
 Calendar Girl
 California Kings
+Caligola: Follia del potere
 Caligola - La storia mai raccontata
 Caligula
 Caligula and Messalina
@@ -4988,7 +4990,7 @@ Young Older Sister-in-Law 3
 Young Sister and the Secret Deal
 Young Sister In Law
 Young Sister-in-law 2
-Young Sister-in-Law 3
+Young Sister-in-law 3
 Young Sister-In-Law 4
 Young Sister-in-Law 5
 Young Sister-in-law: Unbearable Taste - Director's Cut
