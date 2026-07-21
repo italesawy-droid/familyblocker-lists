@@ -1,6 +1,6 @@
 # FamilyBlocker blocked_titles.txt
 # Final flat list used by the browser extension.
-# Updated: 2026-07-20 05:51:24 UTC
+# Updated: 2026-07-21 05:31:43 UTC
 # Built from:
 # - blocked_titles_manual.txt
 # - blocked_titles_auto.txt
@@ -1503,6 +1503,7 @@ Erotic Sex Games
 Erotic Sister
 Erotic Stories
 Erotic Tales
+Erotic Tales - Porn.com
 Erotic Tutoring
 Erotic Tutoring 2
 Erotic Tutoring 3
@@ -5184,8 +5185,8 @@ Young Older Sister-in-Law 2
 Young Older Sister-in-Law 3
 Young Sister and the Secret Deal
 Young Sister In Law
-Young Sister-In-Law 2
-Young Sister-in-Law 3
+Young Sister-in-law 2
+Young Sister-in-law 3
 Young Sister-In-Law 4
 Young Sister-in-Law 5
 Young Sister-in-law: Unbearable Taste - Director's Cut
