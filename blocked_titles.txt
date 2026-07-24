@@ -1,6 +1,6 @@
 # FamilyBlocker blocked_titles.txt
 # Final flat list used by the browser extension.
-# Updated: 2026-07-23 05:35:23 UTC
+# Updated: 2026-07-24 05:31:03 UTC
 # Built from:
 # - blocked_titles_manual.txt
 # - blocked_titles_auto.txt
@@ -2172,7 +2172,6 @@ Innocence and Desire
 Innocent Girls Abroad
 Insatiable
 Insatiable Adriana
-Inside Deep Throat
 Inside Désirée Cousteau
 Inside Jennifer Welles
 Inside Wives' Affairs
@@ -3679,7 +3678,7 @@ Sex Demon Human 1 - Estrous Cycle
 Sex, Demons and Death
 Sex Demons: Ghosts Obsessed With Sex
 Sex Detective Hatenashi
-Sex Detective Nana: The Phantom Of The Sauna
+Sex Detective Nana: The Phantom of the Sauna
 Sex Doll: Her Temperature
 Sex Door Neighbors
 Sex Dreams Report
