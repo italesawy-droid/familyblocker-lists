@@ -1,6 +1,6 @@
 # FamilyBlocker blocked_titles_auto.txt
 # Auto-generated flat automatic titles.
-# Updated: 2026-07-25 05:25:28 UTC
+# Updated: 2026-07-26 05:44:40 UTC
 # Do not edit manually. Use blocked_titles_manual.txt, blocked_titles_allowlist.txt, or blocked_genres_disabled.txt.
 
 1-900 1994
@@ -30,6 +30,7 @@
 19 Gold Love Story
 19 Gold Swamp of Sex
 19 Gold Young Wife
+1945 prede di guerra
 1996 Mulberry
 1999 AVN Awards
 19금 절대섹스
@@ -1226,6 +1227,7 @@ End Of The World
 Endless Lust: Make Me Squirm!
 Enjoy Dot Com
 Enslaved Justice
+Enticement
 Entrails of a Virgin
 Entrapments
 Eoudong
@@ -3415,6 +3417,7 @@ Secrets of Naked Girls
 Secrets of Sweet Sixteen
 Secrets of the Abbey
 Secrets of Women
+Section disciplinaire
 Security Exposure
 Seducing Country Girl
 Seduction 2017
@@ -3460,7 +3463,7 @@ Sex Demon Human 1 - Estrous Cycle
 Sex, Demons and Death
 Sex Demons: Ghosts Obsessed With Sex
 Sex Detective Hatenashi
-Sex Detective Nana: The Phantom Of The Sauna
+Sex Detective Nana: The Phantom of the Sauna
 Sex Doll: Her Temperature
 Sex Door Neighbors
 Sex Dreams Report
@@ -4990,9 +4993,9 @@ Young Older Sister-in-Law
 Young Older Sister-in-Law 2
 Young Older Sister-in-Law 3
 Young Sister and the Secret Deal
-Young Sister-in-law
+Young Sister In Law
 Young Sister-in-law 2
-Young Sister-in-law 3
+Young Sister-in-Law 3
 Young Sister In Law 4
 Young Sister-in-Law 5
 Young Sister-in-law: Unbearable Taste - Director's Cut
