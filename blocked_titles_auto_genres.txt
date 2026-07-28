@@ -1,6 +1,6 @@
 # FamilyBlocker blocked_titles_auto_genres.txt
 # Genres used by scripts/update_titles.py.
-# Updated: 2026-07-27 06:02:12 UTC
+# Updated: 2026-07-28 05:26:12 UTC
 # Disabled genres are not included here.
 
 Q185529 - pornographic film
@@ -19,7 +19,6 @@ Q125719481 - lesbian pornographic film
 Q114051112 - POV pornographic film
 Q48743992 - gay pornographic video
 Q5969904 - Q5969904
-Q85877822 - Q85877822
 Q3461143 - BDSM-themed film
 Q84041 - Bavarian porn
 Q3684597 - Commedia erotica familiare
@@ -32,6 +31,7 @@ Q140380310 - bisexual pornographic film
 Q4373044 - cartoon pornography
 Q931552 - celebrity sex tape
 Q10505214 - comedy porn film
+Q85877822 - dōjin AV
 Q109733294 - erotic thriller film
 Q138020407 - fetish film
 Q3318957 - furry porn
