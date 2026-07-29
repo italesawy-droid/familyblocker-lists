@@ -1,6 +1,6 @@
 # FamilyBlocker blocked_titles.txt
 # Final flat list used by the browser extension.
-# Updated: 2026-07-28 05:26:12 UTC
+# Updated: 2026-07-29 05:34:46 UTC
 # Built from:
 # - blocked_titles_manual.txt
 # - blocked_titles_auto.txt
@@ -4223,6 +4223,8 @@ Thar She Blows!
 That Boy
 That Dick Taste's Like Money
 That Malicious Age
+That's Life
+That's Life 2
 That Thing Is A Virus
 The 11,000 Sexes
 The 66th Day
@@ -5194,7 +5196,7 @@ Young Sister and the Secret Deal
 Young Sister In Law
 Young Sister-In-Law 2
 Young Sister-in-Law 3
-Young Sister-In-Law 4
+Young Sister In Law 4
 Young Sister-in-Law 5
 Young Sister-in-law: Unbearable Taste - Director's Cut
 Young Specialist
