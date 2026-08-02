@@ -1,6 +1,6 @@
 # FamilyBlocker blocked_titles.txt
 # Final flat list used by the browser extension.
-# Updated: 2026-08-01 05:37:19 UTC
+# Updated: 2026-08-02 05:38:01 UTC
 # Built from:
 # - blocked_titles_manual.txt
 # - blocked_titles_auto.txt
@@ -825,6 +825,7 @@ Beyond the Valley of the Dolls
 Bi Maxx 48
 Bibi: Confessions of Sweet Sixteen
 Big Bang Theory XXX Parody
+Big Black Cock 3
 Big Booty 4th of July Celebration
 Big Bottom Sadie
 Big Breasted Daughter-in-law
@@ -1319,7 +1320,7 @@ Dev.D 2009
 Deviance
 Deviant Wife
 Deviation
-Devil in the Flesh
+Devil In The Flesh
 Devotion
 Diakopes stin Ydra
 Dial Love for Murder
@@ -5203,8 +5204,8 @@ Young Older Sister-in-Law
 Young Older Sister-in-Law 2
 Young Older Sister-in-Law 3
 Young Sister and the Secret Deal
-Young Sister In Law
-Young Sister-in-law 2
+Young Sister-in-law
+Young Sister-In-Law 2
 Young Sister-in-Law 3
 Young Sister-In-Law 4
 Young Sister-in-Law 5
