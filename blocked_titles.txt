@@ -1,6 +1,6 @@
 # FamilyBlocker blocked_titles.txt
 # Final flat list used by the browser extension.
-# Updated: 2026-08-03 05:59:10 UTC
+# Updated: 2026-08-04 05:30:58 UTC
 # Built from:
 # - blocked_titles_manual.txt
 # - blocked_titles_auto.txt
@@ -1320,7 +1320,7 @@ Dev.D 2009
 Deviance
 Deviant Wife
 Deviation
-Devil In The Flesh
+Devil in the Flesh
 Devotion
 Diakopes stin Ydra
 Dial Love for Murder
