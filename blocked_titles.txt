@@ -1,6 +1,6 @@
 # FamilyBlocker blocked_titles.txt
 # Final flat list used by the browser extension.
-# Updated: 2026-08-06 05:29:39 UTC
+# Updated: 2026-08-07 04:35:36 UTC
 # Built from:
 # - blocked_titles_manual.txt
 # - blocked_titles_auto.txt
@@ -1580,6 +1580,7 @@ Fall for Me
 Fall in Love With the Brother-in-law
 Fallen
 Falling From Grace
+Fallo da rigore
 Familie Matuscheck
 Family Bestial Games
 Family Guy: The XXX Parody
@@ -2385,6 +2386,7 @@ La novizia
 LA Plays Itself
 La seduzione
 La sposina
+La Villa del Martirio
 Ladies' Doctor
 Lady Black Rose
 Lady Chatterley In Tokyo
@@ -2416,6 +2418,7 @@ Laura 1979
 Laura 1980
 Layanam
 Layout
+Le Avventure di Monella e la sua famiglia
 Le Coucher de la Mariée
 Le déclic
 Le due... grandi labbra
@@ -2447,6 +2450,7 @@ Les Bitches
 Les FILLES DE MALEMORT
 Les Gourmandines
 Les liaisons dangereuses
+Les Marquises de Sade
 Les Tontons tringleurs
 Les Vampyres
 Les Visiteuses
@@ -2983,6 +2987,8 @@ Naked Woman
 Nana 1985
 Narrow Nambul
 Nasha 2013
+Nasty Universe 2
+Nasty Universe 3
 Natalie
 National Sexuality Management Committee
 Naughty Coeds
@@ -3590,6 +3596,7 @@ Scandal in the Family
 Scandal in the Vatican
 Scandale
 Scandalo in famiglia
+Scandalo on line all'università
 Scared Stiff
 Scarlet Innocence
 Scarlet Prostitute: Stabbing
@@ -4037,6 +4044,7 @@ Superbad
 Superclimax
 Supergirl XXX – An Axel Braun Parody
 Superman vs. Spider-Man XXX: An Axel Braun Parody
+Supermodels Arschgefickt
 Supervixens
 Surfside Sex
 Survey Map of a Paradise Lost
@@ -5127,7 +5135,7 @@ Women's War: Doggie's Uprising
 Women: Sexual Satisfaction
 Women Who Have Been Tamed
 Women Without Innocence
-Women ... Women
+Women, Women
 Wonder Woman XXX: An Axel Braun Parody
 Workplace Picnic Goal
 World Cup
@@ -5205,8 +5213,8 @@ Young Older Sister-in-Law
 Young Older Sister-in-Law 2
 Young Older Sister-in-Law 3
 Young Sister and the Secret Deal
-Young Sister In Law
-Young Sister-In-Law 2
+Young Sister-in-law
+Young Sister-in-law 2
 Young Sister-in-law 3
 Young Sister In Law 4
 Young Sister-in-Law 5

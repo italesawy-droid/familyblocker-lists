@@ -1,6 +1,6 @@
 # FamilyBlocker blocked_titles_auto_genres.txt
 # Genres used by scripts/update_titles.py.
-# Updated: 2026-08-06 05:29:39 UTC
+# Updated: 2026-08-07 04:35:36 UTC
 # Disabled genres are not included here.
 
 Q185529 - pornographic film
