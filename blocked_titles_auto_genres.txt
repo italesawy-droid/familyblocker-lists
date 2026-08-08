@@ -1,6 +1,6 @@
 # FamilyBlocker blocked_titles_auto_genres.txt
 # Genres used by scripts/update_titles.py.
-# Updated: 2026-08-07 04:35:36 UTC
+# Updated: 2026-08-08 03:44:52 UTC
 # Disabled genres are not included here.
 
 Q185529 - pornographic film
@@ -25,6 +25,7 @@ Q3684597 - Commedia erotica familiare
 Q124391280 - Danish sex documentary film
 Q128151033 - LGBT erotic film
 Q123851043 - LGBTQ pornographic film
+Q123011518 - Malayalam softcore pornography
 Q1412580 - Pinky Violence
 Q20965835 - adult video in Japan
 Q140380310 - bisexual pornographic film
