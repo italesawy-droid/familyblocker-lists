@@ -1,6 +1,6 @@
 # FamilyBlocker blocked_titles_auto.txt
 # Auto-generated flat automatic titles.
-# Updated: 2026-08-09 03:54:03 UTC
+# Updated: 2026-08-10 04:08:52 UTC
 # Do not edit manually. Use blocked_titles_manual.txt, blocked_titles_allowlist.txt, or blocked_genres_disabled.txt.
 
 1-900 1994
@@ -278,6 +278,8 @@ American Reunion
 American Wedding
 Ami Aar Amar Girlfriends
 Amor a la española
+Amore & Psiche
+Amore & Psiche 2
 Amore libero - Free Love
 Amorous Adventures of Janette Littledove
 Amorous Woman
@@ -2316,6 +2318,7 @@ Love and Affair
 Love and Death at Fuji Speedway
 Love and Lust
 Love and Practicing Death
+Love and Psyche
 Love And War
 Love at the End of the World
 Love Bavarian Style
@@ -3561,6 +3564,7 @@ Sexual Partnership
 Sexual Quest
 Sexual Witchcraft
 Sexwriting
+Sexy Adventures of Van Helsing
 Sexy Battle Girls
 Sexy Ebony Queen Porn... Houstons Own Kimberly Brinks
 Sexy Man and Woman
@@ -4943,7 +4947,7 @@ Women's War: Doggie's Uprising
 Women: Sexual Satisfaction
 Women Who Have Been Tamed
 Women Without Innocence
-Women, Women
+Women ... Women
 Wonder Woman XXX: An Axel Braun Parody
 Workplace Picnic Goal
 World Cup
@@ -5023,8 +5027,8 @@ Young Older Sister-in-Law
 Young Older Sister-in-Law 2
 Young Older Sister-in-Law 3
 Young Sister and the Secret Deal
-Young Sister In Law
-Young Sister-In-Law 2
+Young Sister-in-law
+Young Sister-in-law 2
 Young Sister-in-law 3
 Young Sister In Law 4
 Young Sister-in-Law 5
