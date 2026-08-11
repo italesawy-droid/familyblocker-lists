@@ -1,6 +1,6 @@
 # FamilyBlocker blocked_titles.txt
 # Final flat list used by the browser extension.
-# Updated: 2026-08-10 04:08:52 UTC
+# Updated: 2026-08-11 03:56:08 UTC
 # Built from:
 # - blocked_titles_manual.txt
 # - blocked_titles_auto.txt
@@ -1323,7 +1323,7 @@ Dev.D 2009
 Deviance
 Deviant Wife
 Deviation
-Devil In The Flesh
+Devil in the Flesh
 Devotion
 Diakopes stin Ydra
 Dial Love for Murder
@@ -1525,6 +1525,7 @@ Erotomania
 Escape from Pleasure Planet
 Escort Bar Oppa
 Essentially Dee
+Eternal Love
 Eternity
 Eugénie de Sade
 Euphoria
@@ -2576,6 +2577,7 @@ Love-In 72
 Love in Illusion
 Love in Paris
 Love in the Medina
+Love is in the Web
 Love Lesson
 Love Life in Luxembourg
 Love, Lust and Violence
@@ -2614,6 +2616,7 @@ Lunch Box
 Lust for a Vampire
 Lust Object
 Lust on the Prairie
+Lust Tango in Paris
 Lustful Gisaeng
 Lustful Hitchhiker: Sought Wife
 Lustful Wife in Black: Aching
@@ -5222,7 +5225,7 @@ Young Older Sister-in-Law
 Young Older Sister-in-Law 2
 Young Older Sister-in-Law 3
 Young Sister and the Secret Deal
-Young Sister-in-law
+Young Sister In Law
 Young Sister-in-law 2
 Young Sister-in-law 3
 Young Sister In Law 4
