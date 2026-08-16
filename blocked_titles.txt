@@ -1,6 +1,6 @@
 # FamilyBlocker blocked_titles.txt
 # Final flat list used by the browser extension.
-# Updated: 2026-08-15 03:06:34 UTC
+# Updated: 2026-08-16 03:17:30 UTC
 # Built from:
 # - blocked_titles_manual.txt
 # - blocked_titles_auto.txt
@@ -3711,7 +3711,7 @@ Sex Demon Human 1 - Estrous Cycle
 Sex, Demons and Death
 Sex Demons: Ghosts Obsessed With Sex
 Sex Detective Hatenashi
-Sex Detective Nana: The Phantom of the Sauna
+Sex Detective Nana: The Phantom Of The Sauna
 Sex Doll: Her Temperature
 Sex Door Neighbors
 Sex Dreams Report
@@ -4639,6 +4639,7 @@ The Snow Bunnies
 The Soldier with Great Maneuvers
 The Solid Man
 The Spiral Woman
+The Splendor of Hell
 The Stewardesses
 The Sticky Taste of a Peach-Skinned Proprietess
 The Stink of Flesh
