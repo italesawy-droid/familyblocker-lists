@@ -1,6 +1,6 @@
 # FamilyBlocker blocked_titles.txt
 # Final flat list used by the browser extension.
-# Updated: 2026-08-16 03:17:30 UTC
+# Updated: 2026-08-17 03:14:20 UTC
 # Built from:
 # - blocked_titles_manual.txt
 # - blocked_titles_auto.txt
@@ -1324,7 +1324,7 @@ Dev.D 2009
 Deviance
 Deviant Wife
 Deviation
-Devil in the Flesh
+Devil In The Flesh
 Devotion
 Diakopes stin Ydra
 Dial Love for Murder
@@ -3290,6 +3290,8 @@ Pirates II: Stagnetti's Revenge
 Pizza Dare 1
 Pizza Dare 2
 Plan 69 from Outer Space
+Planet Sexxx
+Planet Sexxx 2
 Plastic Sex
 Play-mate of the Apes
 Playboy BONG
@@ -3711,7 +3713,7 @@ Sex Demon Human 1 - Estrous Cycle
 Sex, Demons and Death
 Sex Demons: Ghosts Obsessed With Sex
 Sex Detective Hatenashi
-Sex Detective Nana: The Phantom Of The Sauna
+Sex Detective Nana: The Phantom of the Sauna
 Sex Doll: Her Temperature
 Sex Door Neighbors
 Sex Dreams Report
@@ -5229,8 +5231,8 @@ Young Older Sister-in-Law 3
 Young Sister and the Secret Deal
 Young Sister-in-law
 Young Sister-in-law 2
-Young Sister-in-law 3
-Young Sister In Law 4
+Young Sister-in-Law 3
+Young Sister-In-Law 4
 Young Sister-in-Law 5
 Young Sister-in-law: Unbearable Taste - Director's Cut
 Young Specialist
