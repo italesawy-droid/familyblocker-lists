@@ -1,6 +1,6 @@
 # FamilyBlocker blocked_titles.txt
 # Final flat list used by the browser extension.
-# Updated: 2026-08-19 03:12:21 UTC
+# Updated: 2026-08-20 03:12:42 UTC
 # Built from:
 # - blocked_titles_manual.txt
 # - blocked_titles_auto.txt
@@ -3333,6 +3333,7 @@ Portrait of a Beauty
 Portrait of a Call Girl
 POV Jugg Fuckers 2
 POV Pervert
+Power Bangers
 Power Bitches 2
 Power Diary: Cow Farm Saedaek
 Practice Makes Perfect
@@ -4510,7 +4511,6 @@ The Married Woman
 The Marshmallow Experiment
 The Masseuse
 The Masseuse 2
-The Masseuse Returns
 The Men I Wanted
 The Men Who My Father Loved
 The Merger
@@ -5235,7 +5235,7 @@ Young Older Sister-in-Law 2
 Young Older Sister-in-Law 3
 Young Sister and the Secret Deal
 Young Sister In Law
-Young Sister-In-Law 2
+Young Sister-in-law 2
 Young Sister-in-Law 3
 Young Sister-In-Law 4
 Young Sister-in-Law 5
