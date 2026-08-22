@@ -1,6 +1,6 @@
 # FamilyBlocker blocked_titles.txt
 # Final flat list used by the browser extension.
-# Updated: 2026-08-21 03:17:41 UTC
+# Updated: 2026-08-22 03:09:04 UTC
 # Built from:
 # - blocked_titles_manual.txt
 # - blocked_titles_auto.txt
@@ -2464,6 +2464,7 @@ Les Tontons tringleurs
 Les Vampyres
 Les Visiteuses
 Lesbian Harem
+Lesbian Masseuse 5
 Let Me Die a Woman
 Let Me Tell Ya 'bout Black Chicks
 Let Me Tell Ya 'bout White Chicks
@@ -2852,6 +2853,8 @@ Mother's Lover 3
 Mother's Seduction
 Mother's Seduction 2
 Mother's Taste
+Mother Superior
+Mother Superior 3: Satan's Daughter
 Mother Theory
 Motivation for Admission
 Mound Daughter-in-law
@@ -5236,8 +5239,8 @@ Young Older Sister-in-Law 2
 Young Older Sister-in-Law 3
 Young Sister and the Secret Deal
 Young Sister-in-law
-Young Sister-in-law 2
-Young Sister-in-Law 3
+Young Sister-In-Law 2
+Young Sister-in-law 3
 Young Sister In Law 4
 Young Sister-in-Law 5
 Young Sister-in-law: Unbearable Taste - Director's Cut
