@@ -1,6 +1,6 @@
 # FamilyBlocker blocked_titles.txt
 # Final flat list used by the browser extension.
-# Updated: 2026-08-24 03:17:54 UTC
+# Updated: 2026-08-25 03:13:43 UTC
 # Built from:
 # - blocked_titles_manual.txt
 # - blocked_titles_auto.txt
@@ -1325,7 +1325,7 @@ Dev.D 2009
 Deviance
 Deviant Wife
 Deviation
-Devil In The Flesh
+Devil in the Flesh
 Devotion
 Diakopes stin Ydra
 Dial Love for Murder
@@ -3719,7 +3719,7 @@ Sex Demon Human 1 - Estrous Cycle
 Sex, Demons and Death
 Sex Demons: Ghosts Obsessed With Sex
 Sex Detective Hatenashi
-Sex Detective Nana: The Phantom Of The Sauna
+Sex Detective Nana: The Phantom of the Sauna
 Sex Doll: Her Temperature
 Sex Door Neighbors
 Sex Dreams Report
@@ -5159,7 +5159,7 @@ Women's War: Doggie's Uprising
 Women: Sexual Satisfaction
 Women Who Have Been Tamed
 Women Without Innocence
-Women, Women
+Women ... Women
 Wonder Woman XXX: An Axel Braun Parody
 Workplace Picnic Goal
 World Cup
@@ -5240,7 +5240,7 @@ Young Older Sister-in-Law 3
 Young Sister and the Secret Deal
 Young Sister-in-law
 Young Sister-In-Law 2
-Young Sister-in-Law 3
+Young Sister-in-law 3
 Young Sister-In-Law 4
 Young Sister-in-Law 5
 Young Sister-in-law: Unbearable Taste - Director's Cut
