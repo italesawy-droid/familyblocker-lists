@@ -1,6 +1,6 @@
 # FamilyBlocker blocked_titles.txt
 # Final flat list used by the browser extension.
-# Updated: 2026-08-25 03:13:43 UTC
+# Updated: 2026-08-26 03:22:33 UTC
 # Built from:
 # - blocked_titles_manual.txt
 # - blocked_titles_auto.txt
@@ -1325,7 +1325,7 @@ Dev.D 2009
 Deviance
 Deviant Wife
 Deviation
-Devil in the Flesh
+Devil In The Flesh
 Devotion
 Diakopes stin Ydra
 Dial Love for Murder
@@ -5239,7 +5239,7 @@ Young Older Sister-in-Law 2
 Young Older Sister-in-Law 3
 Young Sister and the Secret Deal
 Young Sister-in-law
-Young Sister-In-Law 2
+Young Sister-in-law 2
 Young Sister-in-law 3
 Young Sister-In-Law 4
 Young Sister-in-Law 5
