@@ -1,6 +1,6 @@
 # FamilyBlocker blocked_titles.txt
 # Final flat list used by the browser extension.
-# Updated: 2026-08-31 08:42:29 UTC
+# Updated: 2026-09-01 07:50:57 UTC
 # Built from:
 # - blocked_titles_manual.txt
 # - blocked_titles_auto.txt
@@ -1340,7 +1340,7 @@ Dev.D 2009
 Deviance
 Deviant Wife
 Deviation
-Devil in the Flesh
+Devil In The Flesh
 Devotion
 Diakopes stin Ydra
 Dial Love for Murder
@@ -1553,6 +1553,7 @@ Euroglam 3: An American In Europe
 Euroglam 4: An American In Europe: Final Chapter
 Euroglam Budapest 2: Nikki Blonde
 Euroglam Budapest: Wanda Curtis
+Eva Angelina
 Eva Man - Two Sexes in One
 Eva nera
 Evalutionary
@@ -3746,7 +3747,7 @@ Sex Demon Human 1 - Estrous Cycle
 Sex, Demons and Death
 Sex Demons: Ghosts Obsessed With Sex
 Sex Detective Hatenashi
-Sex Detective Nana: The Phantom Of The Sauna
+Sex Detective Nana: The Phantom of the Sauna
 Sex Doll: Her Temperature
 Sex Door Neighbors
 Sex Dreams Report
@@ -5189,7 +5190,7 @@ Women's War: Doggie's Uprising
 Women: Sexual Satisfaction
 Women Who Have Been Tamed
 Women Without Innocence
-Women, Women
+Women ... Women
 Wonder Woman XXX: An Axel Braun Parody
 Workplace Picnic Goal
 World Cup
@@ -5213,6 +5214,7 @@ Yellow Hair
 Yellow Hair - Plastic Sex
 Yellow House
 Yeolhwaokmun
+Yes Chief
 Yes, God, Yes
 Yidong Man and Woman of Kimbone
 Yodeling Under the Dirndl
@@ -5270,8 +5272,8 @@ Young Older Sister-in-Law 3
 Young Sister and the Secret Deal
 Young Sister In Law
 Young Sister-in-law 2
-Young Sister-in-law 3
-Young Sister In Law 4
+Young Sister-in-Law 3
+Young Sister-In-Law 4
 Young Sister-in-Law 5
 Young Sister-in-law: Unbearable Taste - Director's Cut
 Young Specialist
