@@ -1,6 +1,6 @@
 # FamilyBlocker blocked_titles_auto.txt
 # Auto-generated flat automatic titles.
-# Updated: 2026-09-07 07:22:33 UTC
+# Updated: 2026-09-08 07:16:22 UTC
 # Do not edit manually. Use blocked_titles_manual.txt, blocked_titles_allowlist.txt, or blocked_genres_disabled.txt.
 
 1-900 1994
@@ -3971,32 +3971,32 @@ Swinging Wives
 Switch Hitters 8
 SX_Tape
 Symphony of Love
-Taboo 10 - Ten Years Later
-Taboo 11 - Crazy On You
 Taboo 12
 Taboo 13
-Taboo 14 - Kissing Cousins
+Taboo 14: Kissing Cousins
 Taboo 15
-Taboo 16 - But Not Sweet
+Taboo 16
 Taboo 17
-Taboo 18 - Her Secret Life
+Taboo 18
 Taboo 19
 Taboo 1980
-Taboo 2
-Taboo 2001 - Sex Odyssey
-Taboo 21 - Taboo 212
+Taboo 2001: Sex Odyssey
+Taboo 21
 Taboo 22
 Taboo 23
-Taboo 3 - The Final Chapter
-Taboo 5 - The Secret
-Taboo 6 - The Obsession
-Taboo 7 - The Wild And The Innocent
-Taboo 8 - The Magic Is Back
-Taboo 9
 Taboo: forbidden love
+Taboo II
+Taboo III
 Taboo IV: The Younger Generation
+Taboo IX
 Taboo - New Sister
 Taboo of Tarot
+Taboo V: The Secret
+Taboo VI: The Obsession
+Taboo VII: The Wild and the Innocent
+Taboo VIII
+Taboo X
+Taboo XI
 Tails from the Toilet
 Take It Out in Trade
 Take Me Naked
@@ -5001,7 +5001,7 @@ Women's War: Doggie's Uprising
 Women: Sexual Satisfaction
 Women Who Have Been Tamed
 Women Without Innocence
-Women ... Women
+Women, Women
 Wonder Woman XXX: An Axel Braun Parody
 Workplace Picnic Goal
 World Cup
@@ -5084,7 +5084,7 @@ Young Older Sister-in-Law 2
 Young Older Sister-in-Law 3
 Young Sister and the Secret Deal
 Young Sister-in-law
-Young Sister-in-law 2
+Young Sister-In-Law 2
 Young Sister-in-law 3
 Young Sister In Law 4
 Young Sister-in-Law 5
