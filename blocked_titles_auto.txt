@@ -1,6 +1,6 @@
 # FamilyBlocker blocked_titles_auto.txt
 # Auto-generated flat automatic titles.
-# Updated: 2026-09-09 07:26:36 UTC
+# Updated: 2026-09-10 07:21:16 UTC
 # Do not edit manually. Use blocked_titles_manual.txt, blocked_titles_allowlist.txt, or blocked_genres_disabled.txt.
 
 1-900 1994
@@ -1084,7 +1084,7 @@ Dev.D 2009
 Deviance
 Deviant Wife
 Deviation
-Devil in the Flesh
+Devil In The Flesh
 Devotion
 Diakopes stin Ydra
 Dial Love for Murder
@@ -3519,6 +3519,7 @@ Sex & Fury
 Sex & The City: The Original XXX Parody
 Sex & Zen 4
 Sex... 13 Beaufort
+Sex 2 1993
 Sex: A Relationship and Not Marriage
 Sex Addiction: The Wet Daily Life of a Manzai Comedy Artist
 Sex and Lucia
@@ -3560,6 +3561,7 @@ Sex Girl 8
 Sex Girl 9
 Sex Guy's Inn: Women's Wiggling Asses
 Sex House: Partner Share
+Sex II: Fate
 Sex in the Game
 Sex in the Office
 Sex in the Snow
@@ -5084,10 +5086,10 @@ Young Older Sister-in-Law
 Young Older Sister-in-Law 2
 Young Older Sister-in-Law 3
 Young Sister and the Secret Deal
-Young Sister-in-law
-Young Sister-In-Law 2
+Young Sister In Law
+Young Sister-in-law 2
 Young Sister-in-Law 3
-Young Sister In Law 4
+Young Sister-In-Law 4
 Young Sister-in-Law 5
 Young Sister-in-law: Unbearable Taste - Director's Cut
 Young Specialist
