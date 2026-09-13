@@ -1,6 +1,6 @@
 # FamilyBlocker blocked_titles_auto.txt
 # Auto-generated flat automatic titles.
-# Updated: 2026-09-12 07:11:35 UTC
+# Updated: 2026-09-13 07:31:29 UTC
 # Do not edit manually. Use blocked_titles_manual.txt, blocked_titles_allowlist.txt, or blocked_genres_disabled.txt.
 
 1-900 1994
@@ -926,6 +926,7 @@ Conspiracy
 Constance
 Contact-Free Intercourse
 Continuous Adultery 2: A Portrait of Incest between Sisters
+Convent of Sinners
 Convoy of Women
 Cool It Carol!
 Corpi nudi
@@ -1084,7 +1085,7 @@ Dev.D 2009
 Deviance
 Deviant Wife
 Deviation
-Devil In The Flesh
+Devil in the Flesh
 Devotion
 Diakopes stin Ydra
 Dial Love for Murder
@@ -1292,6 +1293,7 @@ Erotic X
 Erotique
 Erotique Expressions
 Erotomania
+Escape from Camp Conversion
 Escape from Pleasure Planet
 Escort Bar Oppa
 Essentially Dee
@@ -4548,6 +4550,7 @@ The Velvet Mafia 2
 The Velvet Vampire
 The VeneXiana
 The Vices Of Women
+The Violation of Jessica Darlin
 The Virgin with the Hot Pants
 The Visitors
 The Voyeur
@@ -5006,7 +5009,7 @@ Women's War: Doggie's Uprising
 Women: Sexual Satisfaction
 Women Who Have Been Tamed
 Women Without Innocence
-Women, Women
+Women ... Women
 Wonder Woman XXX: An Axel Braun Parody
 Workplace Picnic Goal
 World Cup
@@ -5089,8 +5092,8 @@ Young Older Sister-in-Law 2
 Young Older Sister-in-Law 3
 Young Sister and the Secret Deal
 Young Sister In Law
-Young Sister-in-law 2
-Young Sister-in-law 3
+Young Sister-In-Law 2
+Young Sister-in-Law 3
 Young Sister-In-Law 4
 Young Sister-in-Law 5
 Young Sister-in-law: Unbearable Taste - Director's Cut
