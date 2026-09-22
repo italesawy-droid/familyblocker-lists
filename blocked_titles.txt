@@ -1,6 +1,6 @@
 # FamilyBlocker blocked_titles.txt
 # Final flat list used by the browser extension.
-# Updated: 2026-09-21 08:07:32 UTC
+# Updated: 2026-09-22 07:44:53 UTC
 # Built from:
 # - blocked_titles_manual.txt
 # - blocked_titles_auto.txt
@@ -1348,7 +1348,7 @@ Dev.D 2009
 Deviance
 Deviant Wife
 Deviation
-Devil in the Flesh
+Devil In The Flesh
 Devotion
 Diakopes stin Ydra
 Dial Love for Murder
@@ -1917,7 +1917,6 @@ Grease XXX – A Parody
 Great Russian Sexual Revolution
 Greedy Mouth
 Green Chair 2013 - Love Conceptually
-Gregory Dark's Sex Freaks
 Gremo mi po svojo
 Grinders
 Grindhouse XXX
@@ -3409,6 +3408,7 @@ Prison Girl
 Prison Girls
 Prisoner of Paradise
 Privacy Lewdness
+Private Café 2
 Private Collections
 Private Gaia 1: Les obstacles de l'amour
 Private Gaia 2: Irresistible Silvie
@@ -3418,6 +3418,7 @@ Private Gold 93: The Sexual Adventures Of Little Red
 Private Lesson Bribe
 Private Lessons
 Private Lessons: Home Teacher's Breast
+Private Love Story
 Private Professor: Three Women's Sex Class
 Private School
 Private School Girls
@@ -3761,7 +3762,7 @@ Sex Demon Human 1 - Estrous Cycle
 Sex, Demons and Death
 Sex Demons: Ghosts Obsessed With Sex
 Sex Detective Hatenashi
-Sex Detective Nana: The Phantom Of The Sauna
+Sex Detective Nana: The Phantom of the Sauna
 Sex Doll: Her Temperature
 Sex Door Neighbors
 Sex Dreams Report
@@ -3815,6 +3816,7 @@ Sex Pets
 Sex Plate 17
 Sex Play
 Sex Psycho
+Sex Secrets of the Paparazzi
 Sex Service
 Sex Shot
 Sex, Sinners & Saints
@@ -5290,9 +5292,9 @@ Young Older Sister-in-Law
 Young Older Sister-in-Law 2
 Young Older Sister-in-Law 3
 Young Sister and the Secret Deal
-Young Sister-in-law
-Young Sister-In-Law 2
-Young Sister-in-Law 3
+Young Sister In Law
+Young Sister-in-law 2
+Young Sister-in-law 3
 Young Sister In Law 4
 Young Sister-in-Law 5
 Young Sister-in-law: Unbearable Taste - Director's Cut
