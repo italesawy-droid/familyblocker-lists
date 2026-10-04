@@ -1,6 +1,6 @@
 # FamilyBlocker blocked_titles.txt
 # Final flat list used by the browser extension.
-# Updated: 2026-10-03 08:09:38 UTC
+# Updated: 2026-10-04 08:29:40 UTC
 # Built from:
 # - blocked_titles_manual.txt
 # - blocked_titles_auto.txt
@@ -3408,6 +3408,7 @@ Pretty Young Sister 2
 Pretty Young Sister 3
 Pretty Young Sister 4
 Pretty Young Sister 5
+Principles of Lust
 Prison Girl
 Prison Girls
 Prisoner of Paradise
@@ -3768,7 +3769,7 @@ Sex Demon Human 1 - Estrous Cycle
 Sex, Demons and Death
 Sex Demons: Ghosts Obsessed With Sex
 Sex Detective Hatenashi
-Sex Detective Nana: The Phantom of the Sauna
+Sex Detective Nana: The Phantom Of The Sauna
 Sex Doll: Her Temperature
 Sex Door Neighbors
 Sex Dreams Report
@@ -5304,7 +5305,7 @@ Young Sister and the Secret Deal
 Young Sister-in-law
 Young Sister-in-law 2
 Young Sister-in-law 3
-Young Sister In Law 4
+Young Sister-In-Law 4
 Young Sister-in-Law 5
 Young Sister-in-law: Unbearable Taste - Director's Cut
 Young Specialist
