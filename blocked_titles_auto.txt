@@ -1,6 +1,6 @@
 # FamilyBlocker blocked_titles_auto.txt
 # Auto-generated flat automatic titles.
-# Updated: 2026-10-08 09:02:49 UTC
+# Updated: 2026-10-09 09:09:53 UTC
 # Do not edit manually. Use blocked_titles_manual.txt, blocked_titles_allowlist.txt, or blocked_genres_disabled.txt.
 
 1-900 1994
@@ -1090,7 +1090,7 @@ Dev.D 2009
 Deviance
 Deviant Wife
 Deviation
-Devil in the Flesh
+Devil In The Flesh
 Devotion
 Diakopes stin Ydra
 Dial Love for Murder
@@ -2176,6 +2176,7 @@ La Bambola
 La Bestia in Calore
 La bête
 La bocca
+La Bonne
 La ciociara 1 - Fuga da Roma
 La cognatina
 La collegiale
@@ -3185,6 +3186,7 @@ Pretty Peaches
 Pretty Peaches 2
 Pretty Reporter
 Pretty Sisters-in-law 2018
+Pretty Thing
 Pretty Young Sister
 Pretty Young Sister 2
 Pretty Young Sister 3
@@ -5030,7 +5032,7 @@ Women's War: Doggie's Uprising
 Women: Sexual Satisfaction
 Women Who Have Been Tamed
 Women Without Innocence
-Women, Women
+Women ... Women
 Wonder Woman XXX: An Axel Braun Parody
 Wonderland
 Workplace Picnic Goal
@@ -5113,9 +5115,9 @@ Young Older Sister-in-Law
 Young Older Sister-in-Law 2
 Young Older Sister-in-Law 3
 Young Sister and the Secret Deal
-Young Sister-in-law
+Young Sister In Law
 Young Sister-In-Law 2
-Young Sister-in-Law 3
+Young Sister-in-law 3
 Young Sister-In-Law 4
 Young Sister-in-Law 5
 Young Sister-in-law: Unbearable Taste - Director's Cut
