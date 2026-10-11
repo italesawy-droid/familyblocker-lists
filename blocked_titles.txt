@@ -1,6 +1,6 @@
 # FamilyBlocker blocked_titles.txt
 # Final flat list used by the browser extension.
-# Updated: 2026-10-10 08:32:31 UTC
+# Updated: 2026-10-11 08:57:18 UTC
 # Built from:
 # - blocked_titles_manual.txt
 # - blocked_titles_auto.txt
@@ -5243,7 +5243,6 @@ Xcalibur 3: The Lords of Sex
 Xcalibur: The Lords of Sex
 Xena XXX: An Exquisite Films Parody
 Xero 2010
-Xmas Special: Luna Love
 XXX Trek: The Final Orgasm
 XYZ 2000
 Y2KAGE
@@ -5311,7 +5310,7 @@ Young Older Sister-in-Law 2
 Young Older Sister-in-Law 3
 Young Sister and the Secret Deal
 Young Sister-in-law
-Young Sister-In-Law 2
+Young Sister-in-law 2
 Young Sister-in-Law 3
 Young Sister-In-Law 4
 Young Sister-in-Law 5
