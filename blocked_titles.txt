@@ -1,6 +1,6 @@
 # FamilyBlocker blocked_titles.txt
 # Final flat list used by the browser extension.
-# Updated: 2026-10-19 07:51:50 UTC
+# Updated: 2026-10-20 07:38:11 UTC
 # Built from:
 # - blocked_titles_manual.txt
 # - blocked_titles_auto.txt
@@ -1063,6 +1063,8 @@ Capriccio
 Captain America XXX: An Axel Braun Parody
 Captain Marvel XXX: An Axel Braun Parody
 Car Wash Angels
+Car Wash Angels 2
+Car Wash Angels: Wet 'n Wild
 Car Wash Girls
 Car Wash Girls 2
 Cara Maestra!
@@ -3629,6 +3631,7 @@ Russian Institute
 Russian Institute: The Headmistress
 Russian Lolita
 Russian Mom
+Russian Nymphet: Temptation
 S&M Hunter
 Sa Bangji
 Saali Poori Gharwali
@@ -5230,7 +5233,7 @@ Women's War: Doggie's Uprising
 Women: Sexual Satisfaction
 Women Who Have Been Tamed
 Women Without Innocence
-Women ... Women
+Women, Women
 Wonder Woman XXX: An Axel Braun Parody
 Wonderland
 Workplace Picnic Goal
@@ -5311,8 +5314,8 @@ Young Older Sister-in-Law
 Young Older Sister-in-Law 2
 Young Older Sister-in-Law 3
 Young Sister and the Secret Deal
-Young Sister In Law
-Young Sister-in-law 2
+Young Sister-in-law
+Young Sister-In-Law 2
 Young Sister-in-Law 3
 Young Sister-In-Law 4
 Young Sister-in-Law 5
