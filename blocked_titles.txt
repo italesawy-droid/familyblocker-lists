@@ -1,6 +1,6 @@
 # FamilyBlocker blocked_titles.txt
 # Final flat list used by the browser extension.
-# Updated: 2026-11-03 09:36:18 UTC
+# Updated: 2026-11-04 09:17:27 UTC
 # Built from:
 # - blocked_titles_manual.txt
 # - blocked_titles_auto.txt
@@ -1365,7 +1365,7 @@ Dev.D 2009
 Deviance
 Deviant Wife
 Deviation
-Devil in the Flesh
+Devil In The Flesh
 Devotion
 Diakopes stin Ydra
 Dial Love for Murder
@@ -2001,6 +2001,7 @@ Heavy Rain
 Heera Panna
 Helga, She Wolf of Stilberg
 Hell's Angel
+Hell, Whores and High Heels
 Hentai no kisetsu: Kôkotsu no ibuki
 Hentai Sex School
 Hentai zôsan: Watashi no momoiro shidô
@@ -2095,6 +2096,8 @@ HotMen CoolBoyz
 House Husband's Erotic Outdoor Life
 House of 1000 Pleasures
 House Of Cruel Dolls
+House of Dreams
+House of Sin
 House on Bare Mountain
 House with a Good View 2
 House with a Good View 3
@@ -3802,7 +3805,7 @@ Sex Demon Human 1 - Estrous Cycle
 Sex, Demons and Death
 Sex Demons: Ghosts Obsessed With Sex
 Sex Detective Hatenashi
-Sex Detective Nana: The Phantom of the Sauna
+Sex Detective Nana: The Phantom Of The Sauna
 Sex Doll: Her Temperature
 Sex Door Neighbors
 Sex Dreams Report
@@ -4546,6 +4549,7 @@ The House by the Edge of the Lake
 The House of 1,000 Dolls
 The House of Morecock
 The House of Pleasure
+The House Of Sin
 The House of the Doves
 The Human Sexipede
 The Humbling
@@ -5261,7 +5265,7 @@ Women's War: Doggie's Uprising
 Women: Sexual Satisfaction
 Women Who Have Been Tamed
 Women Without Innocence
-Women ... Women
+Women, Women
 Wonder Woman XXX: An Axel Braun Parody
 Wonderland
 Workplace Picnic Goal
@@ -5342,10 +5346,10 @@ Young Older Sister-in-Law
 Young Older Sister-in-Law 2
 Young Older Sister-in-Law 3
 Young Sister and the Secret Deal
-Young Sister In Law
+Young Sister-in-law
 Young Sister-in-law 2
-Young Sister-in-Law 3
-Young Sister In Law 4
+Young Sister-in-law 3
+Young Sister-In-Law 4
 Young Sister-in-Law 5
 Young Sister-in-law: Unbearable Taste - Director's Cut
 Young Specialist
