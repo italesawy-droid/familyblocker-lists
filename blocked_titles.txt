@@ -1,6 +1,6 @@
 # FamilyBlocker blocked_titles.txt
 # Final flat list used by the browser extension.
-# Updated: 2026-11-07 08:52:13 UTC
+# Updated: 2026-11-08 09:02:31 UTC
 # Built from:
 # - blocked_titles_manual.txt
 # - blocked_titles_auto.txt
@@ -1140,7 +1140,6 @@ Chikan densha: Yume miru momoiro nasubi
 Chilli and Banana
 Chinese Kamasutra
 Chinese Kamasutra II
-Chloe 2010
 Chôhatsu delivery: Dare ni mo ienai ura menu
 Christina
 Christophe
@@ -1366,7 +1365,7 @@ Dev.D 2009
 Deviance
 Deviant Wife
 Deviation
-Devil in the Flesh
+Devil In The Flesh
 Devotion
 Diakopes stin Ydra
 Dial Love for Murder
@@ -2195,7 +2194,6 @@ Il vizio preferito di mia moglie
 Ill-Behaved as Always
 Ilsa, Harem Keeper of the Oil Sheiks
 Ilsa, She Wolf of the SS
-Ilsa, the Tigress of Siberia
 Ilsa, the Wicked Warden
 Images in a Convent
 Immoral First Love: Loving from the Nipples
@@ -2396,7 +2394,6 @@ Kill Bill: A XXX Parody
 Killer Nun
 Killer: Shoot Inside You
 Killer Tenant
-Killing Me Softly
 Killing of the Flesh
 Kim Jang-won Murder Case
 Kim Kardashian, Superstar
@@ -3808,7 +3805,7 @@ Sex Demon Human 1 - Estrous Cycle
 Sex, Demons and Death
 Sex Demons: Ghosts Obsessed With Sex
 Sex Detective Hatenashi
-Sex Detective Nana: The Phantom Of The Sauna
+Sex Detective Nana: The Phantom of the Sauna
 Sex Doll: Her Temperature
 Sex Door Neighbors
 Sex Dreams Report
@@ -3926,7 +3923,6 @@ Shimoneta trio: Madonna o nerae
 Shining Modern History
 Shirts Up Knickers Down
 Shitty Shitty Bang Bang
-Shivers
 Shock 1995
 Shock! Eating
 Shock! Giving Back
@@ -5349,10 +5345,10 @@ Young Older Sister-in-Law
 Young Older Sister-in-Law 2
 Young Older Sister-in-Law 3
 Young Sister and the Secret Deal
-Young Sister-in-law
+Young Sister In Law
 Young Sister-In-Law 2
-Young Sister-in-law 3
-Young Sister In Law 4
+Young Sister-in-Law 3
+Young Sister-In-Law 4
 Young Sister-in-Law 5
 Young Sister-in-law: Unbearable Taste - Director's Cut
 Young Specialist
