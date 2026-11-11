@@ -1,6 +1,6 @@
 # FamilyBlocker blocked_titles_auto.txt
 # Auto-generated flat automatic titles.
-# Updated: 2026-11-10 09:55:10 UTC
+# Updated: 2026-11-11 09:30:06 UTC
 # Do not edit manually. Use blocked_titles_manual.txt, blocked_titles_allowlist.txt, or blocked_genres_disabled.txt.
 
 1-900 1994
@@ -470,7 +470,6 @@ Barefoot Confidential
 Barely Legal 1
 Barely Legal 174: Pop Stars
 Barley Field In Sam-Bak Valley
-Basic Instinct
 Basic Instinct 2
 Bat Pussy
 BatfXXX: Dark Night Parody
@@ -2267,7 +2266,6 @@ Le Sexe qui parle
 Le Sourire Vertical
 Léa 2011
 Leave Me Alone
-Leaving Las Vegas
 Lebanon
 Lecherous Older Sister
 Lee Chaedam's G-Spot
@@ -5069,7 +5067,7 @@ Women's War: Doggie's Uprising
 Women: Sexual Satisfaction
 Women Who Have Been Tamed
 Women Without Innocence
-Women ... Women
+Women, Women
 Wonder Woman XXX: An Axel Braun Parody
 Wonderland
 Workplace Picnic Goal
@@ -5153,8 +5151,8 @@ Young Older Sister-in-Law 3
 Young Sister and the Secret Deal
 Young Sister-in-law
 Young Sister-In-Law 2
-Young Sister-in-Law 3
-Young Sister In Law 4
+Young Sister-in-law 3
+Young Sister-In-Law 4
 Young Sister-in-Law 5
 Young Sister-in-law: Unbearable Taste - Director's Cut
 Young Specialist
