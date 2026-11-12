@@ -1,6 +1,6 @@
 # FamilyBlocker blocked_titles.txt
 # Final flat list used by the browser extension.
-# Updated: 2026-11-11 09:30:06 UTC
+# Updated: 2026-11-12 09:59:11 UTC
 # Built from:
 # - blocked_titles_manual.txt
 # - blocked_titles_auto.txt
@@ -939,8 +939,7 @@ Blue Film: Estimation
 Blue Film Woman
 Blue Jeans
 Blue Money
-Blue Movie
-Blue Valentine
+Blue movie
 Blue Velvet
 Boarder: Dangerous Cohabitation
 Boarding House
@@ -1051,7 +1050,6 @@ Caligula's Hot Nights
 Call Center Accepts Everything
 Call Girl
 Call Girl (La vida privada de una señorita bien)
-Call Me Mother
 Call Me Tonight
 Calla Lily
 Calling a Gigolo
@@ -1366,7 +1364,7 @@ Dev.D 2009
 Deviance
 Deviant Wife
 Deviation
-Devil in the Flesh
+Devil In The Flesh
 Devotion
 Diakopes stin Ydra
 Dial Love for Murder
@@ -1388,7 +1386,7 @@ Different Strokes
 Different Taste: Very Different Twin Brothers
 Diplomarbeit Ficken
 Dirty 30's 6
-Dirty angel
+Dirty Angel
 Dirty Camping Site Girls
 Dirty Diaries
 Dirty Lovers
@@ -5269,7 +5267,7 @@ Women's War: Doggie's Uprising
 Women: Sexual Satisfaction
 Women Who Have Been Tamed
 Women Without Innocence
-Women, Women
+Women ... Women
 Wonder Woman XXX: An Axel Braun Parody
 Wonderland
 Workplace Picnic Goal
@@ -5350,9 +5348,9 @@ Young Older Sister-in-Law
 Young Older Sister-in-Law 2
 Young Older Sister-in-Law 3
 Young Sister and the Secret Deal
-Young Sister-in-law
+Young Sister In Law
 Young Sister-In-Law 2
-Young Sister-in-law 3
+Young Sister-in-Law 3
 Young Sister-In-Law 4
 Young Sister-in-Law 5
 Young Sister-in-law: Unbearable Taste - Director's Cut
