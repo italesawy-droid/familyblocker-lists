@@ -1,6 +1,6 @@
 # FamilyBlocker blocked_titles_auto.txt
 # Auto-generated flat automatic titles.
-# Updated: 2026-11-13 09:36:08 UTC
+# Updated: 2026-11-14 09:00:53 UTC
 # Do not edit manually. Use blocked_titles_manual.txt, blocked_titles_allowlist.txt, or blocked_genres_disabled.txt.
 
 1-900 1994
@@ -3166,6 +3166,7 @@ Poison Ivy: The Secret Society
 Poolside Pounding
 Poppea: A Prostitute in Service of the Emperor
 Poppea's Hot Nights
+Porn and Chill
 Porn of the Dead
 Porn Wars – Episode I
 Porndogs: The Adventures of Sadie
@@ -5065,7 +5066,7 @@ Women's War: Doggie's Uprising
 Women: Sexual Satisfaction
 Women Who Have Been Tamed
 Women Without Innocence
-Women ... Women
+Women, Women
 Wonder Woman XXX: An Axel Braun Parody
 Wonderland
 Workplace Picnic Goal
