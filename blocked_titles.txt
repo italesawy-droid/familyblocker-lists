@@ -1,6 +1,6 @@
 # FamilyBlocker blocked_titles.txt
 # Final flat list used by the browser extension.
-# Updated: 2026-11-14 09:00:53 UTC
+# Updated: 2026-11-15 09:31:10 UTC
 # Built from:
 # - blocked_titles_manual.txt
 # - blocked_titles_auto.txt
@@ -939,7 +939,7 @@ Blue Film: Estimation
 Blue Film Woman
 Blue Jeans
 Blue Money
-Blue movie
+Blue Movie
 Blue Velvet
 Boarder: Dangerous Cohabitation
 Boarding House
@@ -3807,7 +3807,7 @@ Sex Demon Human 1 - Estrous Cycle
 Sex, Demons and Death
 Sex Demons: Ghosts Obsessed With Sex
 Sex Detective Hatenashi
-Sex Detective Nana: The Phantom Of The Sauna
+Sex Detective Nana: The Phantom of the Sauna
 Sex Doll: Her Temperature
 Sex Door Neighbors
 Sex Dreams Report
@@ -4359,6 +4359,7 @@ Thar She Blows!
 That Boy
 That Dick Taste's Like Money
 That Malicious Age
+That Rapper Destroyed My Crapper
 That's Life
 That's Life 2
 That Thing Is A Virus
@@ -5269,7 +5270,7 @@ Women's War: Doggie's Uprising
 Women: Sexual Satisfaction
 Women Who Have Been Tamed
 Women Without Innocence
-Women, Women
+Women ... Women
 Wonder Woman XXX: An Axel Braun Parody
 Wonderland
 Workplace Picnic Goal
@@ -5352,7 +5353,7 @@ Young Older Sister-in-Law 3
 Young Sister and the Secret Deal
 Young Sister In Law
 Young Sister-In-Law 2
-Young Sister-in-Law 3
+Young Sister-in-law 3
 Young Sister-In-Law 4
 Young Sister-in-Law 5
 Young Sister-in-law: Unbearable Taste - Director's Cut
