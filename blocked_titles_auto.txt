@@ -1,6 +1,6 @@
 # FamilyBlocker blocked_titles_auto.txt
 # Auto-generated flat automatic titles.
-# Updated: 2026-11-15 09:31:10 UTC
+# Updated: 2026-11-16 09:49:00 UTC
 # Do not edit manually. Use blocked_titles_manual.txt, blocked_titles_allowlist.txt, or blocked_genres_disabled.txt.
 
 1-900 1994
@@ -661,7 +661,7 @@ Blue Film Woman
 Blue Is the Warmest Colour
 Blue Jeans
 Blue Money
-Blue Movie
+Blue movie
 Blue Velvet
 Boarder: Dangerous Cohabitation
 Boarding House
@@ -1746,6 +1746,7 @@ Healing House: Kingdom of Sex
 Healing Mate
 Hearts & Minds
 Heat 1997
+Heat in the Night
 Heat of the Summer
 Heaven's Gate Boksangsa Temple
 Heaven's Prisoners
@@ -2629,7 +2630,6 @@ Molly 1980
 Mom and Dad
 Mom and Daughter Sex Diet
 Mom and I: We are in Melting Mode
-Mom Lover
 Mom's Boyfriend
 Mom's Diary
 Mom's Friend 2
@@ -4416,6 +4416,7 @@ The Modifuckrs
 The Moonlight of Seoul
 The Naked Countess
 The Naked Rage
+The Naughty Stewardesses
 The Naughty Twins
 The New Adventures of Snow White
 The New Barbarians
@@ -5151,7 +5152,7 @@ Young Older Sister-in-Law 3
 Young Sister and the Secret Deal
 Young Sister In Law
 Young Sister-In-Law 2
-Young Sister-in-law 3
+Young Sister-in-Law 3
 Young Sister-In-Law 4
 Young Sister-in-Law 5
 Young Sister-in-law: Unbearable Taste - Director's Cut
@@ -5227,7 +5228,6 @@ Zuma: Tales of a Sexual Gladiator
 젊은 며느리
 젊은 며느리 무삭제판
 착한 엄마 2 무삭제
-착한 여자친구
 착한 친구 누나
 착한 친구아내 무삭제
 친구 엄마:섹스하던 날
