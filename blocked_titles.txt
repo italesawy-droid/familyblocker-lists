@@ -1,6 +1,6 @@
 # FamilyBlocker blocked_titles.txt
 # Final flat list used by the browser extension.
-# Updated: 2026-11-17 10:46:50 UTC
+# Updated: 2026-11-18 10:13:55 UTC
 # Built from:
 # - blocked_titles_manual.txt
 # - blocked_titles_auto.txt
@@ -939,7 +939,7 @@ Blue Film: Estimation
 Blue Film Woman
 Blue Jeans
 Blue Money
-Blue movie
+Blue Movie
 Blue Velvet
 Boarder: Dangerous Cohabitation
 Boarding House
@@ -1365,7 +1365,7 @@ Dev.D 2009
 Deviance
 Deviant Wife
 Deviation
-Devil in the Flesh
+Devil In The Flesh
 Devotion
 Diakopes stin Ydra
 Dial Love for Murder
@@ -1438,6 +1438,7 @@ Dr. Sex
 Dracula
 Dracula Sucks
 Dream Affection
+Dream Catcher
 Dream girl
 Dream of JINSIA
 Dream Quest
@@ -2410,6 +2411,7 @@ Kinnara Thumbikal
 Kiss Me, Kill Me
 Kiss Me Quick!
 Kiss of the Piranha Woman
+Kiss-Off
 Kiss Tomorrow Goodbye
 Kōichirō Uno's Wet and Swinging
 Ku Klux Klan
@@ -5271,7 +5273,7 @@ Women's War: Doggie's Uprising
 Women: Sexual Satisfaction
 Women Who Have Been Tamed
 Women Without Innocence
-Women, Women
+Women ... Women
 Wonder Woman XXX: An Axel Braun Parody
 Wonderland
 Workplace Picnic Goal
@@ -5354,8 +5356,8 @@ Young Older Sister-in-Law 3
 Young Sister and the Secret Deal
 Young Sister In Law
 Young Sister-in-law 2
-Young Sister-in-Law 3
-Young Sister-In-Law 4
+Young Sister-in-law 3
+Young Sister In Law 4
 Young Sister-in-Law 5
 Young Sister-in-law: Unbearable Taste - Director's Cut
 Young Specialist
