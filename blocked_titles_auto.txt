@@ -1,6 +1,6 @@
 # FamilyBlocker blocked_titles_auto.txt
 # Auto-generated flat automatic titles.
-# Updated: 2026-11-20 10:04:27 UTC
+# Updated: 2026-11-21 09:53:21 UTC
 # Do not edit manually. Use blocked_titles_manual.txt, blocked_titles_allowlist.txt, or blocked_genres_disabled.txt.
 
 1-900 1994
@@ -661,7 +661,7 @@ Blue Film Woman
 Blue Is the Warmest Colour
 Blue Jeans
 Blue Money
-Blue Movie
+Blue movie
 Blue Velvet
 Boarder: Dangerous Cohabitation
 Boarding House
@@ -1097,7 +1097,7 @@ Dev.D 2009
 Deviance
 Deviant Wife
 Deviation
-Devil in the Flesh
+Devil In The Flesh
 Devotion
 Diakopes stin Ydra
 Dial Love for Murder
@@ -3381,6 +3381,7 @@ Risque Burlesque
 Risque Burlesque 2
 Risque Hospital
 Ritual
+Road Trip
 Robin Hood
 Robinson and His Tempestuous Slaves
 Robinson Crusoe on Sin Island
@@ -3586,7 +3587,7 @@ Sex Demon Human 1 - Estrous Cycle
 Sex, Demons and Death
 Sex Demons: Ghosts Obsessed With Sex
 Sex Detective Hatenashi
-Sex Detective Nana: The Phantom of the Sauna
+Sex Detective Nana: The Phantom Of The Sauna
 Sex Doll: Her Temperature
 Sex Door Neighbors
 Sex Dreams Report
@@ -5158,8 +5159,8 @@ Young Older Sister-in-Law 3
 Young Sister and the Secret Deal
 Young Sister-in-law
 Young Sister-In-Law 2
-Young Sister-in-law 3
-Young Sister-In-Law 4
+Young Sister-in-Law 3
+Young Sister In Law 4
 Young Sister-in-Law 5
 Young Sister-in-law: Unbearable Taste - Director's Cut
 Young Specialist
