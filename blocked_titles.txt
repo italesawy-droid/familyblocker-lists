@@ -1,6 +1,6 @@
 # FamilyBlocker blocked_titles.txt
 # Final flat list used by the browser extension.
-# Updated: 2026-11-24 12:34:56 UTC
+# Updated: 2026-11-25 11:21:46 UTC
 # Built from:
 # - blocked_titles_manual.txt
 # - blocked_titles_auto.txt
@@ -1365,7 +1365,7 @@ Dev.D 2009
 Deviance
 Deviant Wife
 Deviation
-Devil in the Flesh
+Devil In The Flesh
 Devotion
 Diakopes stin Ydra
 Dial Love for Murder
@@ -3531,6 +3531,7 @@ Raped by an Angel 2: The Uniform Fan
 Raped with Eyes: Daydream
 Rapt in Love
 Rapture: The Pavel Dubcek Legend
+Rashomon & Sanzo-Hoshi
 Rasputin: Orgies in the Tsar's Court
 Rat' mal, wer heut bei uns schläft...?
 Rated 19 Secret Lesson
@@ -5123,6 +5124,7 @@ Violence in a Women's Prison
 VIP Women-Only Lewd Massage Shop
 Virgin Concerto
 Virgin Dreams
+Virgin Dreeeeam!!!
 Virgin Ghost: Cum at The End of The World!
 Virgin Hunting
 Virgin Report
@@ -5360,8 +5362,8 @@ Young Older Sister-in-Law
 Young Older Sister-in-Law 2
 Young Older Sister-in-Law 3
 Young Sister and the Secret Deal
-Young Sister In Law
-Young Sister-In-Law 2
+Young Sister-in-law
+Young Sister-in-law 2
 Young Sister-in-Law 3
 Young Sister In Law 4
 Young Sister-in-Law 5
